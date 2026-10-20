@@ -1,0 +1,54 @@
+{
+  "siteName": "Hypnos Interactive",
+  "description": "Hypnos Interactive, İstanbul merkezli bir creative reklam ajansıdır. Geleneksel, dijital ve sosyal medya reklamcılığında 360 derece iletişim; marka kimliği, reklam kampanyaları, Meta ve Google Ads yönetimi, UI/UX tasarımı, web sitesi ve mobil uygulama geliştirme ile e-ticaret danışmanlığı hizmetleri sunar.",
+  "foundingYear": null,
+  "availability": null,
+  "defaultOgImage": {
+    "url": "/media/ornek-og.webp",
+    "alt": "Örnek görsel: Hypnos Interactive varsayılan paylaşım görseli",
+    "width": 1200,
+    "height": 630,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/ornek-og-400x300.webp",
+      "card": "/media/ornek-og-960x504.webp",
+      "og": "/media/ornek-og-1200x630.jpg"
+    }
+  },
+  "email": "hypnosinteractive@gmail.com",
+  "phone": null,
+  "address": "Fulya, Yeşilçimen Sokağı No:12",
+  "district": "Şişli",
+  "city": "İstanbul",
+  "postalCode": "34394",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ye%C5%9Fil%C3%A7imen+Sokak+No%3A12+Fulya+%C5%9Ei%C5%9Fli+%C4%B0stanbul",
+  "lat": 41.056648,
+  "lng": 28.999317,
+  "notifyEmail": null,
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/hypnos.interactive/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hypnos-interactive"
+    },
+    {
+      "label": "Behance",
+      "url": "https://www.behance.net/hypnosinteractive"
+    },
+    {
+      "label": "Dribbble",
+      "url": "https://dribbble.com/hypnosinteractive"
+    },
+    {
+      "label": "Medium",
+      "url": "https://medium.com/@hypnosinteractive"
+    }
+  ],
+  "updatedAt": "2026-10-15T01:03:19.869Z",
+  "globalType": "site-settings"
+}

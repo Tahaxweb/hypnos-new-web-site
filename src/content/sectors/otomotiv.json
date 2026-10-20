@@ -1,0 +1,31 @@
+{
+  "title": "Otomotiv",
+  "summary": "Otomotiv markaları, bayiler ve yan sanayi firmaları için lansman kampanyaları, dijital reklam yönetimi ve ürünü öne çıkaran görsel iletişim hazırlıyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Model ve ürün lansmanları"
+    },
+    {
+      "text": "Bayi iletişimi ve kampanyaları"
+    },
+    {
+      "text": "Dijital reklam yönetimi"
+    },
+    {
+      "text": "Kurumsal ve ürün web siteleri"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "otomotiv",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.218Z",
+  "layout": [],
+  "order": 5
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Meta Ads Yönetimi",
+  "summary": "Facebook ve Instagram reklamlarınızı hedef kitle, kreatif ve bütçe dengesiyle planlıyor; düzenli test ve optimizasyonla kampanya performansını ölçülebilir biçimde takip ediyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Piksel ve Conversions API kurulumu"
+    },
+    {
+      "text": "Hedef kitle ve satış hunisi kurgusu"
+    },
+    {
+      "text": "Reklam kreatifi ve metin üretimi"
+    },
+    {
+      "text": "A/B testleri"
+    },
+    {
+      "text": "Bütçe ve teklif optimizasyonu"
+    },
+    {
+      "text": "Aylık performans raporu"
+    }
+  ],
+  "process": [
+    {
+      "title": "Hedef",
+      "text": "İş hedefini ölçülebilir kampanya hedeflerine çeviriyoruz."
+    },
+    {
+      "title": "Kurulum",
+      "text": "Takip altyapısını, kitleleri ve kampanya yapısını kuruyoruz."
+    },
+    {
+      "title": "Test",
+      "text": "Kreatif, kitle ve teklif varyasyonlarını karşılaştırıyoruz."
+    },
+    {
+      "title": "Optimizasyon",
+      "text": "Veriye göre bütçeyi yeniden dağıtıyor, düzenli raporluyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "meta-ads-yonetimi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.093Z",
+  "layout": [],
+  "order": 3
+}

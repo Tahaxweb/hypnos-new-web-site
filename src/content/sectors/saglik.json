@@ -1,0 +1,31 @@
+{
+  "title": "Sağlık",
+  "summary": "Hastaneler, klinikler ve sağlık markaları için mevzuata uygun, güven veren ve hastanın bilgiye kolay ulaşmasını sağlayan iletişim ve dijital çözümler üretiyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Mevzuata uygun reklam ve içerik dili"
+    },
+    {
+      "text": "Hasta odaklı web siteleri"
+    },
+    {
+      "text": "Randevu ve iletişim akışları"
+    },
+    {
+      "text": "Sosyal medya iletişimi"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "saglik",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.181Z",
+  "layout": [],
+  "order": 1
+}

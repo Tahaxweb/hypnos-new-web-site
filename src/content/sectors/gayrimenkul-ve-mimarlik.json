@@ -1,0 +1,31 @@
+{
+  "title": "Gayrimenkul ve Mimarlık",
+  "summary": "Konut projeleri, gayrimenkul geliştiricileri ve mimarlık ofisleri için proje markalaşması, lansman kampanyaları ve projeyi en iyi anlatan dijital deneyimler tasarlıyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Proje adı ve marka kimliği"
+    },
+    {
+      "text": "Lansman ve satış kampanyaları"
+    },
+    {
+      "text": "Proje web siteleri ve dijital kataloglar"
+    },
+    {
+      "text": "Satış ofisi ve açık hava uygulamaları"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "gayrimenkul-ve-mimarlik",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.191Z",
+  "layout": [],
+  "order": 2
+}

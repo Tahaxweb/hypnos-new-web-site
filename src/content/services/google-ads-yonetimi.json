@@ -1,0 +1,55 @@
+{
+  "title": "Google Ads Yönetimi",
+  "summary": "Arama, Görüntülü Reklam Ağı, YouTube ve Performance Max kampanyalarınızı dönüşüm hedeflerinize göre kuruyor; anahtar kelime, teklif ve dönüşüm takibini sürekli iyileştiriyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Anahtar kelime ve rakip araştırması"
+    },
+    {
+      "text": "Kampanya yapısı ve kurulum"
+    },
+    {
+      "text": "Dönüşüm takibi (GA4, Google Tag Manager)"
+    },
+    {
+      "text": "Reklam metinleri ve öğeler"
+    },
+    {
+      "text": "Teklif stratejisi ve bütçe yönetimi"
+    },
+    {
+      "text": "Raporlama ve öneriler"
+    }
+  ],
+  "process": [
+    {
+      "title": "Hedef",
+      "text": "İş hedefini ölçülebilir kampanya hedeflerine çeviriyoruz."
+    },
+    {
+      "title": "Kurulum",
+      "text": "Takip altyapısını, kitleleri ve kampanya yapısını kuruyoruz."
+    },
+    {
+      "title": "Test",
+      "text": "Kreatif, kitle ve teklif varyasyonlarını karşılaştırıyoruz."
+    },
+    {
+      "title": "Optimizasyon",
+      "text": "Veriye göre bütçeyi yeniden dağıtıyor, düzenli raporluyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "google-ads-yonetimi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.110Z",
+  "layout": [],
+  "order": 4
+}

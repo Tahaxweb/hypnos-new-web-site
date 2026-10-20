@@ -1,0 +1,160 @@
+{
+  "title": "Krembi: kuaför randevu uygulaması ve web sitesi",
+  "client": "Krembi",
+  "year": null,
+  "liveUrl": "https://krembi.com",
+  "sectors": [],
+  "services": [
+    "ui-ux-tasarimi",
+    "mobil-uygulama-gelistirme",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/krembi-imagedededededede.webp",
+    "alt": "Elde tutulan telefonda Krembi uygulaması",
+    "width": 1178,
+    "height": 1335,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/krembi-imagedededededede-400x300.webp",
+      "card": "/media/krembi-imagedededededede-960x1088.webp",
+      "og": "/media/krembi-imagedededededede-1200x630.jpg"
+    }
+  },
+  "excerpt": "Kuaför ve güzellik salonlarından randevu almayı kolaylaştıran mobil uygulama ve tanıtım web sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Mobil uygulama arayüzleri (salon profili, randevu akışı), tanıtım web sitesi, uygulama ikonu ve logo uygulamaları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02149a5010de0f4d96d9e",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02149a5010de0f4d96da2",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/krembi-frame-1261153223.webp",
+            "alt": "Krembi web sitesinin ana sayfası",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/krembi-frame-1261153223-400x300.webp",
+              "card": "/media/krembi-frame-1261153223-960x540.webp",
+              "og": "/media/krembi-frame-1261153223-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/krembi-iphone-16-ve-17-pro-max-5.webp",
+            "alt": "Krembi uygulamasında salon profili ekranı",
+            "width": 689,
+            "height": 725,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/krembi-iphone-16-ve-17-pro-max-5-400x300.webp",
+              "og": "/media/krembi-iphone-16-ve-17-pro-max-5-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/krembi-iphone-16-ve-17-pro-max-3.webp",
+            "alt": "Krembi logosu turkuaz zemin üzerinde",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/krembi-iphone-16-ve-17-pro-max-3-400x300.webp",
+              "card": "/media/krembi-iphone-16-ve-17-pro-max-3-960x960.webp",
+              "og": "/media/krembi-iphone-16-ve-17-pro-max-3-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02149a5010de0f4d96da3",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/krembi-imagedededededede.webp",
+      "alt": "Elde tutulan telefonda Krembi uygulaması",
+      "width": 1178,
+      "height": 1335,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/krembi-imagedededededede-400x300.webp",
+        "card": "/media/krembi-imagedededededede-960x1088.webp",
+        "og": "/media/krembi-imagedededededede-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "krembi",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:45.235Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:45.237Z",
+  "order": 5
+}

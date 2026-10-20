@@ -1,0 +1,161 @@
+{
+  "title": "GTI Savunma Sanayi için kurumsal kimlik ve web sitesi",
+  "client": "GTI Savunma Sanayi",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [
+    "savunma-sanayi"
+  ],
+  "services": [
+    "marka-kimligi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2.webp",
+    "alt": "GTI logosu mavi zemin üzerinde",
+    "width": 1070,
+    "height": 945,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-400x300.webp",
+      "card": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-960x848.webp",
+      "og": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-1200x630.jpg"
+    }
+  },
+  "excerpt": "Savunma sanayi firması GTI için güçlü, teknik ve sade bir kimlik sistemi ile kurumsal web sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo ve renk varyasyonları, tipografi seçimi (Urbanist), renk paleti, mekân uygulaması, kurumsal web sitesi.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad0214aa5010de0f4d96da4",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214aa5010de0f4d96da8",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/gti-savunma-sanayi-frame-1000007311.webp",
+            "alt": "GTI logosunun dört renk varyasyonu",
+            "width": 919,
+            "height": 989,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/gti-savunma-sanayi-frame-1000007311-400x300.webp",
+              "og": "/media/gti-savunma-sanayi-frame-1000007311-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/gti-savunma-sanayi-frame-1261153221.webp",
+            "alt": "GTI logosunun hangar ortamında uygulaması",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/gti-savunma-sanayi-frame-1261153221-400x300.webp",
+              "card": "/media/gti-savunma-sanayi-frame-1261153221-960x960.webp",
+              "og": "/media/gti-savunma-sanayi-frame-1261153221-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/gti-savunma-sanayi-frame-1000007310.webp",
+            "alt": "GTI tipografi sistemi: Urbanist",
+            "width": 2126,
+            "height": 944,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/gti-savunma-sanayi-frame-1000007310-400x300.webp",
+              "card": "/media/gti-savunma-sanayi-frame-1000007310-960x426.webp",
+              "og": "/media/gti-savunma-sanayi-frame-1000007310-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214aa5010de0f4d96da9",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2.webp",
+      "alt": "GTI logosu mavi zemin üzerinde",
+      "width": 1070,
+      "height": 945,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-400x300.webp",
+        "card": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-960x848.webp",
+        "og": "/media/gti-savunma-sanayi-iphone-16-ve-17-pro-2-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "gti-savunma-sanayi",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:46.663Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:46.664Z",
+  "order": 4
+}

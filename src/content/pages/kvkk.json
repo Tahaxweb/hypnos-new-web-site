@@ -1,0 +1,1066 @@
+{
+  "title": "KVKK Aydınlatma Metni",
+  "heading": null,
+  "accent": null,
+  "intro": "6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, web sitemiz aracılığıyla işlenen kişisel verileriniz hakkında sizi bilgilendiriyoruz.",
+  "layout": [
+    {
+      "id": "6ad026d4b2ecc8f0b46bd32c",
+      "heading": null,
+      "content": {
+        "root": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Son güncelleme:",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": " 15 Ekim 2026",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "1. Veri sorumlusu",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (\"KVKK\") 10. maddesi uyarınca veri sorumlusu sıfatıyla ",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Hypnos Interactive",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": " (\"Hypnos Interactive\", \"biz\") tarafından hazırlanmıştır.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Adres: Fulya, Yeşilçimen Sokağı No:12, 34394 Şişli/İstanbul",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "E-posta: hypnosinteractive@gmail.com",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "2. İşlenen kişisel veriler",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Web sitemizdeki iletişim formunu doldurduğunuzda yalnızca formda paylaştığınız şu veriler işlenir:",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Kimlik:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " ad soyad",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "İletişim:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " e-posta adresi, telefon numarası (opsiyonel)",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Talep bilgileri:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " şirket veya marka adı, ilgilendiğiniz hizmet, bütçe aralığı ve mesajınızın içeriği (opsiyonel alanlar dahil)",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "İşlem güvenliği:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " formun hangi sayfadan gönderildiği bilgisi; IP adresiniz yalnızca kötüye kullanımı (spam) önlemek amacıyla gönderim sırasında geçici olarak kullanılır ve form kaydıyla birlikte saklanmaz",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 4
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Mesaj alanına özel nitelikli kişisel veri (sağlık, din, etnik köken vb.) yazmamanızı rica ederiz.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "3. İşleme amaçları",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Proje, teklif ve iş birliği talebinize yanıt verilmesi",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Sizinle iletişime geçilmesi ve talebinizin değerlendirilmesi",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Teklif ve sözleşme süreçlerinin başlatılması",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Web sitesinin ve formun güvenliğinin sağlanması, kötüye kullanımın önlenmesi",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Hukuki yükümlülüklerimizin yerine getirilmesi",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 5
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "4. Hukuki sebepler",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kişisel verileriniz KVKK’nın 5. maddesinin 2. fıkrasında yer alan şu hukuki sebeplere dayanılarak işlenir:",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "(c) Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "(f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması (talebe yanıt verilmesi ve form güvenliği)",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "(ç) Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 3
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "5. Toplama yöntemi",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kişisel verileriniz, web sitemizdeki iletişim formu aracılığıyla elektronik ortamda ve tamamen sizin tarafınızdan paylaşılarak toplanır.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "6. Aktarım",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kişisel verileriniz satılmaz ve pazarlama amacıyla üçüncü kişilerle paylaşılmaz. Verileriniz yalnızca yukarıdaki amaçlarla sınırlı olarak şu alıcı gruplarına aktarılabilir:",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Web sitesinin barındırıldığı sunucu ve veritabanı hizmet sağlayıcıları ile e-posta hizmet sağlayıcıları (hizmetin teknik olarak sunulabilmesi için)",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Talep edilmesi hâlinde yetkili kamu kurum ve kuruluşları (hukuki yükümlülükler kapsamında)",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Hizmet sağlayıcılarının sunucularının yurt dışında bulunması hâlinde aktarım, KVKK’nın 9. maddesinde öngörülen usul ve esaslara uygun olarak gerçekleştirilir.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "7. Saklama süresi",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Form aracılığıyla iletilen veriler, talebiniz sonuçlandıktan sonra en fazla 2 yıl süreyle saklanır; bir sözleşme ilişkisi kurulursa ilgili mevzuatta öngörülen süreler uygulanır. Sürenin sonunda veriler silinir, yok edilir veya anonim hâle getirilir.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "8. Haklarınız",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "KVKK’nın 11. maddesi uyarınca bize başvurarak:",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "İşlenmişse buna ilişkin bilgi talep etme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "İşlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 3
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 4
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Eksik veya yanlış işlenmişse düzeltilmesini isteme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 5
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "KVKK’nın 7. maddesindeki şartlar çerçevesinde silinmesini veya yok edilmesini isteme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 6
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Düzeltme, silme veya yok etme işlemlerinin verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 7
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 8
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Kanuna aykırı işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 9
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "haklarına sahipsiniz.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "9. Başvuru",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Haklarınıza ilişkin taleplerinizi, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’e uygun olarak yazılı şekilde yukarıdaki adresimize veya kimliğinizi doğrulayabileceğimiz bilgilerle birlikte hypnosinteractive@gmail.com adresine iletebilirsiniz. Başvurunuz en geç 30 gün içinde ücretsiz olarak sonuçlandırılır.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1
+        }
+      },
+      "blockName": null,
+      "blockType": "text",
+      "appearance": {
+        "background": "surface",
+        "width": "narrow",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": "Hypnos Interactive web sitesi ve iletişim formu aracılığıyla işlenen kişisel veriler, işleme amaçları, hukuki sebepler ve KVKK kapsamındaki haklarınız.",
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "kvkk",
+  "isSample": false,
+  "updatedAt": "2026-10-15T01:05:24.866Z",
+  "order": 1
+}

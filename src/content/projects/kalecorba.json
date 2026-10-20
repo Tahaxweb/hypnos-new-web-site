@@ -1,0 +1,159 @@
+{
+  "title": "Kaleçorba için logo ve kurumsal kimlik",
+  "client": "Kaleçorba",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [],
+  "services": [
+    "marka-kimligi"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/kalecorba-frame-1261153209-2.webp",
+    "alt": "Kaleçorba logosu kırmızı zemin üzerinde",
+    "width": 1080,
+    "height": 1080,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/kalecorba-frame-1261153209-2-400x300.webp",
+      "card": "/media/kalecorba-frame-1261153209-2-960x960.webp",
+      "og": "/media/kalecorba-frame-1261153209-2-1200x630.jpg"
+    }
+  },
+  "excerpt": "Çorba restoranı Kaleçorba için el yazısı karakterli logo ve kimlik uygulamaları.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo tasarımı ve yapım ızgarası, renk sistemi, tekstil uygulaması, dijital ekran uygulamaları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02153a5010de0f4d96dc7",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02153a5010de0f4d96dcb",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/kalecorba-instagram-post-28.webp",
+            "alt": "Kaleçorba logosunun yapım ızgarası",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/kalecorba-instagram-post-28-400x300.webp",
+              "card": "/media/kalecorba-instagram-post-28-960x960.webp",
+              "og": "/media/kalecorba-instagram-post-28-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/kalecorba-whatsapp-image-2026-03-10-at-21-44-43.webp",
+            "alt": "Kaleçorba logolu tişört uygulaması",
+            "width": 1020,
+            "height": 1280,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/kalecorba-whatsapp-image-2026-03-10-at-21-44-43-400x300.webp",
+              "card": "/media/kalecorba-whatsapp-image-2026-03-10-at-21-44-43-960x1205.webp",
+              "og": "/media/kalecorba-whatsapp-image-2026-03-10-at-21-44-43-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/kalecorba-logomotion-create-1.webp",
+            "alt": "Kaleçorba logosu kırmızı geçişli dikey ekranda",
+            "width": 1080,
+            "height": 1920,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/kalecorba-logomotion-create-1-400x300.webp",
+              "card": "/media/kalecorba-logomotion-create-1-960x1707.webp",
+              "og": "/media/kalecorba-logomotion-create-1-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02153a5010de0f4d96dcc",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/kalecorba-frame-1261153209-2.webp",
+      "alt": "Kaleçorba logosu kırmızı zemin üzerinde",
+      "width": 1080,
+      "height": 1080,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/kalecorba-frame-1261153209-2-400x300.webp",
+        "card": "/media/kalecorba-frame-1261153209-2-960x960.webp",
+        "og": "/media/kalecorba-frame-1261153209-2-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "kalecorba",
+  "featured": false,
+  "publishedAt": "2026-10-15T00:41:55.478Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:55.480Z",
+  "order": 10
+}

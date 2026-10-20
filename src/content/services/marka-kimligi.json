@@ -1,0 +1,55 @@
+{
+  "title": "Marka Kimliği",
+  "summary": "Markanızın kim olduğunu, neyi savunduğunu ve nasıl göründüğünü tanımlayan; logodan tipografiye, renkten ses tonuna kadar tutarlı bir kimlik sistemi tasarlıyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Marka stratejisi ve konumlandırma"
+    },
+    {
+      "text": "Logo ve işaret tasarımı"
+    },
+    {
+      "text": "Renk, tipografi ve görsel dil"
+    },
+    {
+      "text": "Ses tonu ve mesaj mimarisi"
+    },
+    {
+      "text": "Kurumsal kimlik ve basılı uygulamalar"
+    },
+    {
+      "text": "Marka rehberi"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Markayı, hedef kitleyi ve rakipleri dinleyerek başlıyoruz."
+    },
+    {
+      "title": "Strateji",
+      "text": "Konumlandırmayı ve markanın söyleyeceği tek şeyi netleştiriyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Fikri görsel ve sözel bir sisteme dönüştürüyoruz."
+    },
+    {
+      "title": "Uygulama",
+      "text": "Sistemi tüm temas noktalarına yayıp rehberini teslim ediyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "marka-kimligi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.052Z",
+  "layout": [],
+  "order": 0
+}

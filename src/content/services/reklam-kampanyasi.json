@@ -1,0 +1,55 @@
+{
+  "title": "Reklam Kampanyası",
+  "summary": "Geleneksel, dijital ve sosyal medya mecralarında tek bir büyük fikir etrafında 360 derece reklam kampanyaları kurguluyor, üretiyor ve yayına alıyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Kampanya stratejisi ve yaratıcı fikir"
+    },
+    {
+      "text": "Medya planlaması"
+    },
+    {
+      "text": "TV, radyo, açık hava ve basılı uygulamalar"
+    },
+    {
+      "text": "Sosyal medya ve dijital içerik üretimi"
+    },
+    {
+      "text": "Prodüksiyon yönetimi"
+    },
+    {
+      "text": "Kampanya raporlaması"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Markayı, hedef kitleyi ve rakipleri dinleyerek başlıyoruz."
+    },
+    {
+      "title": "Strateji",
+      "text": "Konumlandırmayı ve markanın söyleyeceği tek şeyi netleştiriyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Fikri görsel ve sözel bir sisteme dönüştürüyoruz."
+    },
+    {
+      "title": "Uygulama",
+      "text": "Sistemi tüm temas noktalarına yayıp rehberini teslim ediyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "reklam-kampanyasi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.078Z",
+  "layout": [],
+  "order": 2
+}

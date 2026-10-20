@@ -1,0 +1,85 @@
+{
+  "title": "Web Sitesi Geliştirme",
+  "summary": "Next.js, React ve Tailwind CSS ile hızlı, mobil uyumlu, arama motorlarına hazır ve kolayca yönetilebilen kurumsal web siteleri geliştiriyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Bilgi mimarisi ve içerik planı"
+    },
+    {
+      "text": "Markaya özel tasarım"
+    },
+    {
+      "text": "Next.js ile geliştirme"
+    },
+    {
+      "text": "İçerik yönetim paneli"
+    },
+    {
+      "text": "Teknik SEO ve performans optimizasyonu"
+    },
+    {
+      "text": "Barındırma, bakım ve güvenlik"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Kullanıcıları, iş hedeflerini ve teknik kısıtları birlikte tanımlıyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Akışları, prototipleri ve arayüzü test ederek şekillendiriyoruz."
+    },
+    {
+      "title": "Geliştirme",
+      "text": "Kısa döngülerle geliştiriyor, her aşamada önizleme paylaşıyoruz."
+    },
+    {
+      "title": "Yayın ve destek",
+      "text": "Yayına alıyor, ölçüyor ve ürünü birlikte geliştirmeye devam ediyoruz."
+    }
+  ],
+  "layout": [
+    {
+      "id": "6ad01717800a32c7f09b540a",
+      "heading": "Sık sorulan sorular",
+      "blockName": "Sık sorulan sorular",
+      "items": [
+        {
+          "question": "Web sitesi ne kadar sürede hazır olur?",
+          "answer": "Süre; sayfa sayısına, içeriklerin hazır olup olmamasına ve entegrasyonlara göre değişir. Keşif görüşmesinden sonra aşamaları ve tarihleri içeren net bir zaman planı paylaşıyoruz."
+        },
+        {
+          "question": "Siteyi kendimiz güncelleyebilir miyiz?",
+          "answer": "Evet. Teslim ettiğimiz sitelerde içerik yönetim paneli bulunur; metin, görsel ve sayfaları kod bilgisi gerekmeden güncelleyebilirsiniz."
+        },
+        {
+          "question": "Arama motoru optimizasyonu dahil mi?",
+          "answer": "Teknik SEO temelleri her projede dahildir: anlamlı URL yapısı, sayfa başlıkları ve açıklamaları, site haritası, yapılandırılmış veri ve hızlı yüklenme. İçerik ve bağlantı çalışmaları ayrıca planlanır."
+        }
+      ],
+      "blockType": "faq",
+      "appearance": {
+        "background": "surface",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": "SSS",
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "web-sitesi-gelistirme",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.142Z",
+  "order": 6
+}

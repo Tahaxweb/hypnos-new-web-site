@@ -1,0 +1,416 @@
+{
+  "title": "İyi bir case study nasıl yazılır?",
+  "excerpt": "İyi bir case study; müşterinin ihtiyacını, ajansın yaklaşımını, yapılan işi ve doğrulanabilir sonuçları kısa ve net biçimde anlatır.",
+  "cover": {
+    "url": "/media/ornek-health-grid.webp",
+    "alt": "Örnek görsel: tablette dokuz gönderilik Instagram profil ızgarası",
+    "width": 2000,
+    "height": 1333,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/ornek-health-grid-400x300.webp",
+      "card": "/media/ornek-health-grid-960x640.webp",
+      "og": "/media/ornek-health-grid-1200x630.jpg"
+    }
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bir case study, yaptığınız işin vitrinidir. Ancak yalnızca güzel görseller yetmez: okuyan kişi — potansiyel bir müşteri, bir arama motoru ya da bir yapay zekâ asistanı — projede ne olduğunu birkaç saniyede anlayabilmelidir.",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "1. İhtiyaçla başlayın",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Müşteri neden size geldi? Hangi sorunu çözmek istiyordu? Bu bölümü tek paragrafta, müşterinin bakış açısıyla yazın.",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "2. Yaklaşımınızı açıklayın",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sorunu nasıl ele aldınız? Fikrin özünü ve verdiğiniz kritik kararları anlatın. \"Neden bu yolu seçtik?\" sorusunun yanıtı burada olmalı.",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "3. Uygulamayı somutlaştırın",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Neler üretildi? Mecraları, teslimatları ve kullanılan teknolojileri listeleyin. Görseller en çok bu bölümde işe yarar.",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kurumsal kimlik ve uygulamaları",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 1
+            },
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Web sitesi veya mobil uygulama ekranları",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 2
+            },
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kampanya görselleri ve mecra uygulamaları",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 3
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "listType": "bullet",
+          "tag": "ul",
+          "start": 1
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "4. Sonuçları kaynağıyla verin",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ölçülebilir bir sonuç varsa ",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "kaynağını ve dönemini",
+              "format": 1,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": " belirtin (ör. analitik aracı ve tarih aralığı). Ölçülmüş bir veri yoksa rakam uydurmayın; niteliksel sonucu anlatın.",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "Kısa bir kontrol listesi",
+              "format": 0,
+              "detail": 0,
+              "mode": "normal",
+              "style": "",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Başlık işi veya sonucu anlatıyor mu?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 1
+            },
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "İlk iki cümle projeyi özetliyor mu?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 2
+            },
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Görsellerin alternatif metinleri yazıldı mı?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 3
+            },
+            {
+              "type": "listitem",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Müşteri yayın için onay verdi mi?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "value": 4
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "listType": "bullet",
+          "tag": "ul",
+          "start": 1
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "iyi-bir-case-study-nasil-yazilir",
+  "publishedAt": "2026-10-15T01:01:51.515Z",
+  "categories": [
+    "ajans-notlari"
+  ],
+  "byline": "Hypnos Interactive",
+  "relatedProjects": [],
+  "isSample": true,
+  "updatedAt": "2026-10-15T01:01:51.520Z",
+  "order": 0
+}

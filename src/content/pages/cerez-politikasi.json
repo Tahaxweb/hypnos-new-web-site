@@ -1,0 +1,490 @@
+{
+  "title": "Çerez Politikası",
+  "heading": null,
+  "accent": null,
+  "intro": "Web sitemizde hangi çerezlerin kullanıldığını ve bunları nasıl yönetebileceğinizi açıklıyoruz.",
+  "layout": [
+    {
+      "id": "6ad026d4b2ecc8f0b46bd32d",
+      "heading": null,
+      "content": {
+        "root": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Son güncelleme:",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": " 15 Ekim 2026",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Çerez nedir?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Çerezler, bir web sitesini ziyaret ettiğinizde tarayıcınıza kaydedilen küçük metin dosyalarıdır. Oturumun açık kalması gibi temel işlevler veya ziyaret istatistikleri gibi amaçlarla kullanılabilirler.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ziyaretçiler için çerez kullanmıyoruz",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Web sitemizi ziyaret ettiğinizde tarayıcınıza ",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "analitik, reklam, sosyal medya veya takip amaçlı hiçbir çerez yerleştirilmez.",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Ofis haritası yalnızca sizin isteğinizle yüklenir; proje sayfalarındaki gömülü videolar ise gizlilik odaklı modda yüklenir (ayrıntılar aşağıda).",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Yalnızca yönetim paneli için zorunlu çerezler",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Aşağıdaki çerezler yalnızca Hypnos Interactive ekibinin içerik yönetim paneline giriş yapan kullanıcıları için kullanılır ve sitenin çalışması için zorunludur:",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "list",
+              "children": [
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "payload-token:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " Panel oturumunu güvenli şekilde açık tutar. Oturum süresince (en fazla 8 saat) saklanır.",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 1
+                },
+                {
+                  "type": "listitem",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "__prerender_bypass / önizleme çerezleri:",
+                      "format": 1,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " Editörlerin yayınlanmamış taslakları önizlemesini sağlar. Tarayıcı oturumu boyunca saklanır.",
+                      "format": 0,
+                      "detail": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "version": 1,
+                  "value": 2
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "listType": "bullet",
+              "tag": "ul",
+              "start": 1
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Gömülü videolar",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Bazı proje sayfalarında YouTube veya Vimeo videoları bulunabilir. YouTube videoları gizlilik odaklı \"youtube-nocookie.com\" alan adı üzerinden, Vimeo videoları ise \"dnt\" (izleme yapma) parametresiyle gömülür. Videoyu oynattığınızda ilgili platformun kendi gizlilik ve çerez politikaları geçerli olur.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Harita",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "İletişim sayfasındaki ofis haritası Google Haritalar üzerinden gösterilir. Google, harita yüklendiğinde kendi çerezlerini kullanır; bu nedenle harita yalnızca siz ",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "\"Haritayı göster\"",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": " düğmesine tıkladığınızda yüklenir ve tercihiniz tarayıcınızda (yerel depolama) hatırlanır. Tercihinizi geri almak için tarayıcınızdan bu site için kayıtlı verileri silebilirsiniz. Google’ın çerez kullanımı için Google Gizlilik Politikası geçerlidir.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Çerezleri nasıl yönetebilirsiniz?",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tarayıcınızın ayarlarından çerezleri görüntüleyebilir, silebilir veya engelleyebilirsiniz. Zorunlu çerezleri engellemeniz yalnızca yönetim panelinin çalışmasını etkiler; ziyaretçi deneyimi değişmez.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Değişiklikler",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sitemize analitik veya benzeri bir araç eklememiz hâlinde bu politikayı günceller ve gerekli durumlarda onayınızı alırız.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "İletişim",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h2"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Çerezler ve kişisel verileriniz hakkındaki sorularınız için hypnosinteractive@gmail.com adresine yazabilir, ayrıntılı bilgi için KVKK Aydınlatma Metni’ni inceleyebilirsiniz.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1
+        }
+      },
+      "blockName": null,
+      "blockType": "text",
+      "appearance": {
+        "background": "surface",
+        "width": "narrow",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": "Hypnos Interactive web sitesinde kullanılan çerezler: ziyaretçiler için analitik, reklam veya takip çerezi kullanılmaz; yalnızca yönetim paneli için zorunlu çerezler bulunur.",
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "cerez-politikasi",
+  "isSample": false,
+  "updatedAt": "2026-10-15T01:05:24.895Z",
+  "order": 2
+}

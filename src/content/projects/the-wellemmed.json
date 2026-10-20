@@ -1,0 +1,250 @@
+{
+  "title": "The Wellemmed: sağlık ürünleri için kimlik ve e-ticaret",
+  "client": "The Wellemmed",
+  "year": null,
+  "liveUrl": "https://wellemmed.com",
+  "sectors": [
+    "saglik",
+    "e-ticaret"
+  ],
+  "services": [
+    "marka-kimligi",
+    "web-sitesi-gelistirme",
+    "e-ticaret-danismanligi"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/the-wellemmed-imagede.webp",
+    "alt": "The Wellemmed e-ticaret sitesi dizüstü bilgisayarda",
+    "width": 1672,
+    "height": 941,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/the-wellemmed-imagede-400x300.webp",
+      "card": "/media/the-wellemmed-imagede-960x540.webp",
+      "og": "/media/the-wellemmed-imagede-1200x630.jpg"
+    }
+  },
+  "excerpt": "Sağlık ve kişisel bakım ürünleri markası için kurumsal kimlik ile masaüstü ve mobilde satış odaklı e-ticaret sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo ve renk varyasyonları, kurumsal kırtasiye ve kargo kutusu, tekstil uygulamaları, e-ticaret sitesi (masaüstü ve mobil), ürün kartları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02148a5010de0f4d96d93",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02148a5010de0f4d96d97",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/the-wellemmed-hero.webp",
+            "alt": "The Wellemmed e-ticaret sitesinin ana sayfa kapak alanı",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-hero-400x300.webp",
+              "card": "/media/the-wellemmed-hero-960x540.webp",
+              "og": "/media/the-wellemmed-hero-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/the-wellemmed-imagedede.webp",
+            "alt": "The Wellemmed e-ticaret sitesinin mobil görünümü",
+            "width": 1086,
+            "height": 1448,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-imagedede-400x300.webp",
+              "card": "/media/the-wellemmed-imagedede-960x1280.webp",
+              "og": "/media/the-wellemmed-imagedede-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/the-wellemmed-frame-1261153209-3.webp",
+            "alt": "Wellemmed logosu lacivert zemin üzerinde",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-frame-1261153209-3-400x300.webp",
+              "card": "/media/the-wellemmed-frame-1261153209-3-960x960.webp",
+              "og": "/media/the-wellemmed-frame-1261153209-3-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02148a5010de0f4d96d9c",
+      "heading": null,
+      "layout": "grid3",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/the-wellemmed-frame-15.webp",
+            "alt": "Wellemmed logosunun renk varyasyonları",
+            "width": 2160,
+            "height": 2160,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-frame-15-400x300.webp",
+              "card": "/media/the-wellemmed-frame-15-960x960.webp",
+              "og": "/media/the-wellemmed-frame-15-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/the-wellemmed-gemini-generated-image-3ejn1t3ejn1t3ejn.webp",
+            "alt": "Wellemmed logolu kargo kutusu tasarımı",
+            "width": 2048,
+            "height": 2048,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-gemini-generated-image-3ejn1t3ejn1t3ejn-400x300.webp",
+              "card": "/media/the-wellemmed-gemini-generated-image-3ejn1t3ejn1t3ejn-960x960.webp",
+              "og": "/media/the-wellemmed-gemini-generated-image-3ejn1t3ejn1t3ejn-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/the-wellemmed-kurumsal-kimlik-panosu-gorsel-onerileri.webp",
+            "alt": "Wellemmed kurumsal kimlik uygulamaları masa üzerinde",
+            "width": 2800,
+            "height": 925,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-kurumsal-kimlik-panosu-gorsel-onerileri-400x300.webp",
+              "card": "/media/the-wellemmed-kurumsal-kimlik-panosu-gorsel-onerileri-960x317.webp",
+              "og": "/media/the-wellemmed-kurumsal-kimlik-panosu-gorsel-onerileri-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/the-wellemmed-logomotion-create-5.webp",
+            "alt": "Wellemmed logolu şapka",
+            "width": 1080,
+            "height": 1920,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/the-wellemmed-logomotion-create-5-400x300.webp",
+              "card": "/media/the-wellemmed-logomotion-create-5-960x1707.webp",
+              "og": "/media/the-wellemmed-logomotion-create-5-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02148a5010de0f4d96d9d",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/the-wellemmed-imagede.webp",
+      "alt": "The Wellemmed e-ticaret sitesi dizüstü bilgisayarda",
+      "width": 1672,
+      "height": 941,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/the-wellemmed-imagede-400x300.webp",
+        "card": "/media/the-wellemmed-imagede-960x540.webp",
+        "og": "/media/the-wellemmed-imagede-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "the-wellemmed",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:44.211Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:44.213Z",
+  "order": 3
+}

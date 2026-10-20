@@ -1,0 +1,221 @@
+{
+  "title": "Hakkımızda",
+  "heading": "Network’ün gücüne inanan markaların creative reklam ajansı",
+  "accent": "creative reklam ajansı",
+  "intro": "Geleneksel, dijital ve sosyal medya reklamcılığını 360 derece iletişimle birleştiriyor; insanlarla markalar arasında bağ kuruyoruz.",
+  "layout": [
+    {
+      "id": "6ad0171b800a32c7f09b5452",
+      "heading": "İnsanlarla markalar arasında bağ kuruyoruz",
+      "content": {
+        "root": {
+          "type": "root",
+          "children": [
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "360 derece iletişim",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Hypnos Interactive geleneksel, dijital ve sosyal medya reklamcılığı ile 360 derece iletişim yaparak insanlarla markalar arasında bağ kurmayı hedefler.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Akıl, fikir ve teknik",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Creative reklam ajansları içerisinde iş modelini akıl, fikir ve teknik üçlüsünün sinerjisi doğrultusunda insana temas eden tüm mecralarda duygu ilaveli entegre iletişim sunar.",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "type": "heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Farklı bir yerde durmak isteyen markalar için",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "tag": "h3"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Network’ün gücüne inanan, rakiplerinden algı, görsel ve seslenme anlamında farklı bir yerde durmak isteyen markaların ",
+                  "format": 0,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "creative reklam ajansı!",
+                  "format": 1,
+                  "detail": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "version": 1
+        }
+      },
+      "blockName": "İnsanlarla markalar arasında bağ kuruyoruz",
+      "blockType": "text",
+      "appearance": {
+        "background": "surface",
+        "width": "narrow",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": "Biz kimiz",
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0171b800a32c7f09b5453",
+      "heading": "Uzmanlık alanlarımız",
+      "source": "services",
+      "blockName": "Uzmanlık alanlarımız",
+      "blockType": "servicesList",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": "Hizmetler",
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0171b800a32c7f09b5454",
+      "heading": "Seçili işler",
+      "blockName": "Seçili işler",
+      "blockType": "projectsShowcase",
+      "projects": [],
+      "appearance": {
+        "background": "surface",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0171b800a32c7f09b5455",
+      "heading": "Markanızı farklı bir yerde konumlandıralım.",
+      "text": "Hedefinizi ve zaman planınızı anlatın; size uygun ekibi ve yaklaşımı birlikte belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Markanızı farklı bir yerde konumlandıralım.",
+      "blockType": "cta",
+      "appearance": {
+        "background": "inverse",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": "Hakkımızda — Creative reklam ajansı",
+    "description": "Hypnos Interactive; geleneksel, dijital ve sosyal medya reklamcılığında 360 derece iletişim yapan, akıl, fikir ve tekniği birleştiren bir creative reklam ajansıdır.",
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "hakkimizda",
+  "isSample": false,
+  "updatedAt": "2026-10-14T23:58:19.434Z",
+  "order": 0
+}

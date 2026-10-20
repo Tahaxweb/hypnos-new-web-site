@@ -1,0 +1,31 @@
+{
+  "title": "Savunma Sanayi",
+  "summary": "Savunma sanayi firmaları için gizlilik ve kurumsal itibar hassasiyetlerine uygun marka iletişimi, kurumsal web siteleri ve fuar/tanıtım materyalleri hazırlıyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Kurumsal kimlik ve tanıtım materyalleri"
+    },
+    {
+      "text": "Çok dilli kurumsal web siteleri"
+    },
+    {
+      "text": "Fuar ve etkinlik iletişimi"
+    },
+    {
+      "text": "Ürün ve teknoloji anlatımı"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "savunma-sanayi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.170Z",
+  "layout": [],
+  "order": 0
+}

@@ -1,0 +1,249 @@
+{
+  "title": "Petra Spring: araç kokusundan e-ticarete marka deneyimi",
+  "client": "Petra Spring",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [
+    "e-ticaret"
+  ],
+  "services": [
+    "marka-kimligi",
+    "reklam-kampanyasi",
+    "web-sitesi-gelistirme",
+    "e-ticaret-danismanligi"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/petra-spring-image-dedededede.webp",
+    "alt": "Petra Spring ürünlerinin mağaza kasasındaki stant tasarımı",
+    "width": 1402,
+    "height": 1122,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/petra-spring-image-dedededede-400x300.webp",
+      "card": "/media/petra-spring-image-dedededede-960x768.webp",
+      "og": "/media/petra-spring-image-dedededede-1200x630.jpg"
+    }
+  },
+  "excerpt": "Oda ve araç kokuları markası Petra Spring için kimlik, e-ticaret sitesi, mağaza standı ve araç giydirme.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo ve renk sistemi, e-ticaret sitesi (masaüstü ve mobil), mağaza içi stant ve ürün teşhiri, ticari araç giydirme, ürün fotoğraf kurguları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02144a5010de0f4d96d88",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02144a5010de0f4d96d8c",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/petra-spring-2.webp",
+            "alt": "Petra Spring giydirmeli ticari araç, yan görünüm",
+            "width": 2800,
+            "height": 1575,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-2-400x300.webp",
+              "card": "/media/petra-spring-2-960x540.webp",
+              "og": "/media/petra-spring-2-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petra-spring-3.webp",
+            "alt": "Petra Spring giydirmeli ticari araç, arka görünüm",
+            "width": 2800,
+            "height": 1575,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-3-400x300.webp",
+              "card": "/media/petra-spring-3-960x540.webp",
+              "og": "/media/petra-spring-3-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petra-spring-frame-1261153423.webp",
+            "alt": "Petra Spring logosu açık yeşil zemin üzerinde",
+            "width": 1171,
+            "height": 693,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-frame-1261153423-400x300.webp",
+              "card": "/media/petra-spring-frame-1261153423-960x568.webp",
+              "og": "/media/petra-spring-frame-1261153423-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02144a5010de0f4d96d91",
+      "heading": null,
+      "layout": "grid3",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/petra-spring-frame-1261153462.webp",
+            "alt": "Petra Spring e-ticaret sitesinin ana sayfası",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-frame-1261153462-400x300.webp",
+              "card": "/media/petra-spring-frame-1261153462-960x540.webp",
+              "og": "/media/petra-spring-frame-1261153462-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petra-spring-imag-dededed.webp",
+            "alt": "Petra Spring ürün standı market kasasında",
+            "width": 1402,
+            "height": 1122,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-imag-dededed-400x300.webp",
+              "card": "/media/petra-spring-imag-dededed-960x768.webp",
+              "og": "/media/petra-spring-imag-dededed-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petra-spring-koku-mockup.webp",
+            "alt": "Petra Spring oda kokusu ürün fotoğrafı",
+            "width": 1190,
+            "height": 1388,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-koku-mockup-400x300.webp",
+              "card": "/media/petra-spring-koku-mockup-960x1120.webp",
+              "og": "/media/petra-spring-koku-mockup-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petra-spring-ekran.webp",
+            "alt": "Petra Spring e-ticaret sitesinin mobil görünümü",
+            "width": 722,
+            "height": 1734,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petra-spring-ekran-400x300.webp",
+              "og": "/media/petra-spring-ekran-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02144a5010de0f4d96d92",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/petra-spring-image-dedededede.webp",
+      "alt": "Petra Spring ürünlerinin mağaza kasasındaki stant tasarımı",
+      "width": 1402,
+      "height": 1122,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/petra-spring-image-dedededede-400x300.webp",
+        "card": "/media/petra-spring-image-dedededede-960x768.webp",
+        "og": "/media/petra-spring-image-dedededede-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "petra-spring",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:40.490Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:40.492Z",
+  "order": 6
+}

@@ -1,0 +1,55 @@
+{
+  "title": "UI/UX Tasarımı",
+  "summary": "Web ve mobil ürünlerinizi kullanıcı araştırmasına dayanarak tasarlıyor; anlaşılır akışlar, erişilebilir arayüzler ve test edilmiş prototiplerle kullanıcı deneyimini iyileştiriyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Kullanıcı araştırması ve analiz"
+    },
+    {
+      "text": "Bilgi mimarisi ve kullanıcı akışları"
+    },
+    {
+      "text": "Wireframe ve etkileşimli prototip"
+    },
+    {
+      "text": "Arayüz tasarımı ve tasarım sistemi"
+    },
+    {
+      "text": "Kullanılabilirlik testi"
+    },
+    {
+      "text": "Erişilebilirlik (WCAG) kontrolü"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Kullanıcıları, iş hedeflerini ve teknik kısıtları birlikte tanımlıyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Akışları, prototipleri ve arayüzü test ederek şekillendiriyoruz."
+    },
+    {
+      "title": "Geliştirme",
+      "text": "Kısa döngülerle geliştiriyor, her aşamada önizleme paylaşıyoruz."
+    },
+    {
+      "title": "Yayın ve destek",
+      "text": "Yayına alıyor, ölçüyor ve ürünü birlikte geliştirmeye devam ediyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "ui-ux-tasarimi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.065Z",
+  "layout": [],
+  "order": 1
+}

@@ -1,0 +1,49 @@
+{
+  "title": "İkas",
+  "summary": "Türkiye merkezli e-ticaret altyapısı İkas ile mağaza kurulumu, tasarım ile pazaryeri, ödeme ve kargo entegrasyonlarında destek veriyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Mağaza kurulumu ve tasarımı"
+    },
+    {
+      "text": "Pazaryeri entegrasyonları"
+    },
+    {
+      "text": "Ödeme ve kargo kurulumu"
+    },
+    {
+      "text": "Reklam ve analitik bağlantıları"
+    }
+  ],
+  "website": "https://ikas.com",
+  "relatedServices": [
+    {
+      "title": "E-ticaret Danışmanlığı",
+      "summary": "Shopify, İkas veya özel altyapılarla e-ticaret mağazanızı kuruyor; ödeme, stok, kargo ve analitik entegrasyonlarından dönüşüm optimizasyonuna kadar büyümenize eşlik ediyoruz.",
+      "slug": "e-ticaret-danismanligi"
+    },
+    {
+      "title": "Meta Ads Yönetimi",
+      "summary": "Facebook ve Instagram reklamlarınızı hedef kitle, kreatif ve bütçe dengesiyle planlıyor; düzenli test ve optimizasyonla kampanya performansını ölçülebilir biçimde takip ediyoruz.",
+      "slug": "meta-ads-yonetimi"
+    },
+    {
+      "title": "Google Ads Yönetimi",
+      "summary": "Arama, Görüntülü Reklam Ağı, YouTube ve Performance Max kampanyalarınızı dönüşüm hedeflerinize göre kuruyor; anahtar kelime, teklif ve dönüşüm takibini sürekli iyileştiriyoruz.",
+      "slug": "google-ads-yonetimi"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "ikas",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.239Z",
+  "layout": [],
+  "order": 1
+}

@@ -1,0 +1,334 @@
+{
+  "title": "Can Modern Yapı için 360° marka yenileme",
+  "client": "Can Modern Yapı",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [
+    "gayrimenkul-ve-mimarlik"
+  ],
+  "services": [
+    "marka-kimligi",
+    "reklam-kampanyasi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/can-modern-yapi-image-screen-1920.webp",
+    "alt": "Can Modern Yapı web sitesinin dizüstü bilgisayardaki ana sayfası",
+    "width": 1672,
+    "height": 941,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/can-modern-yapi-image-screen-1920-400x300.webp",
+      "card": "/media/can-modern-yapi-image-screen-1920-960x540.webp",
+      "og": "/media/can-modern-yapi-image-screen-1920-1200x630.jpg"
+    }
+  },
+  "excerpt": "Kurumsal kimlikten web sitesine, şantiye uygulamalarından konut projesi paylaşımlarına uzanan bütünleşik marka yenilemesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo ve renk varyasyonları, kurumsal kimlik rehberi, kartvizit, antetli kâğıt ve dosya, baret uygulaması, kurumsal web sitesi ve konut projeleri için sosyal medya içerikleri.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02140a5010de0f4d96d6e",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d72",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1261153437.webp",
+            "alt": "Can Modern Yapı logosunun lacivert, altın, gri ve siyah zemin varyasyonları",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1261153437-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1261153437-960x540.webp",
+              "og": "/media/can-modern-yapi-frame-1261153437-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-imagecan.webp",
+            "alt": "Can Modern Yapı dosya, antetli kâğıt ve zarf tasarımı",
+            "width": 1536,
+            "height": 1024,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-imagecan-400x300.webp",
+              "card": "/media/can-modern-yapi-imagecan-960x640.webp",
+              "og": "/media/can-modern-yapi-imagecan-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-image-kart.webp",
+            "alt": "Can Modern Yapı kartvizit tasarımı",
+            "width": 1596,
+            "height": 986,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-image-kart-400x300.webp",
+              "card": "/media/can-modern-yapi-image-kart-960x593.webp",
+              "og": "/media/can-modern-yapi-image-kart-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d7c",
+      "heading": null,
+      "layout": "grid3",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-image-baret.webp",
+            "alt": "Can Modern Yapı logolu lacivert baret",
+            "width": 1483,
+            "height": 1061,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-image-baret-400x300.webp",
+              "card": "/media/can-modern-yapi-image-baret-960x687.webp",
+              "og": "/media/can-modern-yapi-image-baret-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1261153439.webp",
+            "alt": "Can Modern Yapı web sitesi ana sayfa ve projeler bölümü",
+            "width": 999,
+            "height": 721,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1261153439-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1261153439-960x693.webp",
+              "og": "/media/can-modern-yapi-frame-1261153439-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1261153438.webp",
+            "alt": "Can Modern Yapı web sitesinin farklı sayfa tasarımları",
+            "width": 1483,
+            "height": 1061,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1261153438-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1261153438-960x687.webp",
+              "og": "/media/can-modern-yapi-frame-1261153438-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1261153435.webp",
+            "alt": "Can Modern Yapı kurumsal kimlik rehberi sayfaları",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1261153435-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1261153435-960x960.webp",
+              "og": "/media/can-modern-yapi-frame-1261153435-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1000001186.webp",
+            "alt": "Konut projesi sosyal medya paylaşımı: \"Neden Atabek Konutları?\"",
+            "width": 1080,
+            "height": 1350,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1000001186-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1000001186-960x1200.webp",
+              "og": "/media/can-modern-yapi-frame-1000001186-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1000001187.webp",
+            "alt": "Konut projesi sosyal medya paylaşımı: proje özellikleri",
+            "width": 1080,
+            "height": 1350,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1000001187-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1000001187-960x1200.webp",
+              "og": "/media/can-modern-yapi-frame-1000001187-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-15-az.webp",
+            "alt": "Konut projesi sosyal medya paylaşımı: \"Sağlıklı yaşam hep sizinle olsun\"",
+            "width": 1080,
+            "height": 1350,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-15-az-400x300.webp",
+              "card": "/media/can-modern-yapi-15-az-960x1200.webp",
+              "og": "/media/can-modern-yapi-15-az-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-frame-1000001183.webp",
+            "alt": "Konut projesi sosyal medya paylaşımı: akşam ışığında site içi yürüyüş",
+            "width": 1080,
+            "height": 1350,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-frame-1000001183-400x300.webp",
+              "card": "/media/can-modern-yapi-frame-1000001183-960x1200.webp",
+              "og": "/media/can-modern-yapi-frame-1000001183-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/can-modern-yapi-flodsfs.webp",
+            "alt": "Konut projesi sosyal medya görseli: havuz başı",
+            "width": 1122,
+            "height": 1402,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/can-modern-yapi-flodsfs-400x300.webp",
+              "card": "/media/can-modern-yapi-flodsfs-960x1200.webp",
+              "og": "/media/can-modern-yapi-flodsfs-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d7d",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/can-modern-yapi-image-screen-1920.webp",
+      "alt": "Can Modern Yapı web sitesinin dizüstü bilgisayardaki ana sayfası",
+      "width": 1672,
+      "height": 941,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/can-modern-yapi-image-screen-1920-400x300.webp",
+        "card": "/media/can-modern-yapi-image-screen-1920-960x540.webp",
+        "og": "/media/can-modern-yapi-image-screen-1920-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "can-modern",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:19.656Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:36.235Z",
+  "order": 1
+}

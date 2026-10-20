@@ -1,0 +1,31 @@
+{
+  "title": "E-ticaret",
+  "summary": "Online satış yapan markalar için mağaza kurulumundan performans reklamcılığına kadar satışı büyütmeye odaklı uçtan uca dijital çözümler sunuyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Mağaza kurulumu ve tasarımı"
+    },
+    {
+      "text": "Meta ve Google reklam yönetimi"
+    },
+    {
+      "text": "Ürün fotoğrafı ve içerik üretimi"
+    },
+    {
+      "text": "Dönüşüm oranı optimizasyonu"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "e-ticaret",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.209Z",
+  "layout": [],
+  "order": 4
+}

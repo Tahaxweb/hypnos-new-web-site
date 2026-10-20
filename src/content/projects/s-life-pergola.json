@@ -1,0 +1,210 @@
+{
+  "title": "S Life Pergola ürün kataloğu ve web sitesi",
+  "client": "S Life Pergola",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [
+    "gayrimenkul-ve-mimarlik"
+  ],
+  "services": [
+    "reklam-kampanyasi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/s-life-pergola-frame-1261153426.webp",
+    "alt": "S Life Pergola sistemiyle kapatılmış dış mekân oturma alanı",
+    "width": 1080,
+    "height": 1080,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/s-life-pergola-frame-1261153426-400x300.webp",
+      "card": "/media/s-life-pergola-frame-1261153426-960x960.webp",
+      "og": "/media/s-life-pergola-frame-1261153426-1200x630.jpg"
+    }
+  },
+  "excerpt": "Pergola ve dış mekân sistemleri üreticisi için çok dilli ürün kataloğu ve kurumsal web sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Çok dilli (Türkçe, İngilizce, Rusça) ürün ve hizmet kataloğu, kurumsal web sitesi ve sayfa tasarımları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02150a5010de0f4d96db9",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02150a5010de0f4d96dbd",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/s-life-pergola-frame-2608760.webp",
+            "alt": "S Life Pergola ürün ve hizmet kataloğu kapağı",
+            "width": 842,
+            "height": 595,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/s-life-pergola-frame-2608760-400x300.webp"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/s-life-pergola-google-gemini-brochure-image.webp",
+            "alt": "S Life Pergola kataloğunun açık sayfa görünümü",
+            "width": 2390,
+            "height": 1792,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/s-life-pergola-google-gemini-brochure-image-400x300.webp",
+              "card": "/media/s-life-pergola-google-gemini-brochure-image-960x720.webp",
+              "og": "/media/s-life-pergola-google-gemini-brochure-image-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/s-life-pergola-a4-43.webp",
+            "alt": "S Life Pergola kataloğu: pergola sistemleri sayfası",
+            "width": 842,
+            "height": 595,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/s-life-pergola-a4-43-400x300.webp"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02150a5010de0f4d96dc0",
+      "heading": null,
+      "layout": "grid2",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/s-life-pergola-frame-1261153427.webp",
+            "alt": "S Life Pergola web sitesinin sayfa tasarımları",
+            "width": 1076,
+            "height": 721,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/s-life-pergola-frame-1261153427-400x300.webp",
+              "card": "/media/s-life-pergola-frame-1261153427-960x643.webp",
+              "og": "/media/s-life-pergola-frame-1261153427-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/s-life-pergola-frame-1261153428.webp",
+            "alt": "S Life Pergola web sitesinin ana sayfası",
+            "width": 1076,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/s-life-pergola-frame-1261153428-400x300.webp",
+              "card": "/media/s-life-pergola-frame-1261153428-960x964.webp",
+              "og": "/media/s-life-pergola-frame-1261153428-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02150a5010de0f4d96dc1",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/s-life-pergola-frame-1261153426.webp",
+      "alt": "S Life Pergola sistemiyle kapatılmış dış mekân oturma alanı",
+      "width": 1080,
+      "height": 1080,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/s-life-pergola-frame-1261153426-400x300.webp",
+        "card": "/media/s-life-pergola-frame-1261153426-960x960.webp",
+        "og": "/media/s-life-pergola-frame-1261153426-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "s-life-pergola",
+  "featured": false,
+  "publishedAt": "2026-10-15T00:41:52.896Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:52.898Z",
+  "order": 8
+}

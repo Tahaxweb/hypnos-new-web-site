@@ -1,0 +1,55 @@
+{
+  "title": "E-ticaret Danışmanlığı",
+  "summary": "Shopify, İkas veya özel altyapılarla e-ticaret mağazanızı kuruyor; ödeme, stok, kargo ve analitik entegrasyonlarından dönüşüm optimizasyonuna kadar büyümenize eşlik ediyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Platform seçimi ve kurulum"
+    },
+    {
+      "text": "Mağaza tasarımı"
+    },
+    {
+      "text": "Ödeme, kargo ve ERP entegrasyonları"
+    },
+    {
+      "text": "Ürün ve katalog yönetimi"
+    },
+    {
+      "text": "Dönüşüm oranı optimizasyonu"
+    },
+    {
+      "text": "Pazarlama ve reklam entegrasyonu"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Kullanıcıları, iş hedeflerini ve teknik kısıtları birlikte tanımlıyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Akışları, prototipleri ve arayüzü test ederek şekillendiriyoruz."
+    },
+    {
+      "title": "Geliştirme",
+      "text": "Kısa döngülerle geliştiriyor, her aşamada önizleme paylaşıyoruz."
+    },
+    {
+      "title": "Yayın ve destek",
+      "text": "Yayına alıyor, ölçüyor ve ürünü birlikte geliştirmeye devam ediyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "e-ticaret-danismanligi",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.156Z",
+  "layout": [],
+  "order": 7
+}

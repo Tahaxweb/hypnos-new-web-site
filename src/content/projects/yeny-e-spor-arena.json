@@ -1,0 +1,212 @@
+{
+  "title": "Yeny E-Spor Arena web sitesi ve dijital iletişimi",
+  "client": "Yeny E-Spor Arena",
+  "year": null,
+  "liveUrl": "https://yenyespor.com",
+  "sectors": [],
+  "services": [
+    "marka-kimligi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/yeny-e-spor-arena-frame-1261153421-9.webp",
+    "alt": "Yeny E-Spor Arena web sitesinin Küçükçekmece şube sayfası",
+    "width": 1920,
+    "height": 1080,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/yeny-e-spor-arena-frame-1261153421-9-400x300.webp",
+      "card": "/media/yeny-e-spor-arena-frame-1261153421-9-960x540.webp",
+      "og": "/media/yeny-e-spor-arena-frame-1261153421-9-1200x630.jpg"
+    }
+  },
+  "excerpt": "E-spor salonları zinciri Yeny için şube odaklı web sitesi, marka renkleri ve sosyal medya içerikleri.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Kurumsal web sitesi (şubeler, iletişim ve şube detay sayfaları), marka renk sistemi, sosyal medya içerikleri.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad0214da5010de0f4d96daa",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214da5010de0f4d96dae",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/yeny-e-spor-arena-frame-1261153421-7.webp",
+            "alt": "Yeny web sitesinde şubeler bölümü",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/yeny-e-spor-arena-frame-1261153421-7-400x300.webp",
+              "card": "/media/yeny-e-spor-arena-frame-1261153421-7-960x540.webp",
+              "og": "/media/yeny-e-spor-arena-frame-1261153421-7-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/yeny-e-spor-arena-frame-1261153421-6.webp",
+            "alt": "Yeny web sitesinin iletişim sayfası",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/yeny-e-spor-arena-frame-1261153421-6-400x300.webp",
+              "card": "/media/yeny-e-spor-arena-frame-1261153421-6-960x540.webp",
+              "og": "/media/yeny-e-spor-arena-frame-1261153421-6-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/yeny-e-spor-arena-image-ds.webp",
+            "alt": "Yeny E-Spor Arena logosu",
+            "width": 1536,
+            "height": 1024,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/yeny-e-spor-arena-image-ds-400x300.webp",
+              "card": "/media/yeny-e-spor-arena-image-ds-960x640.webp",
+              "og": "/media/yeny-e-spor-arena-image-ds-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214da5010de0f4d96db1",
+      "heading": null,
+      "layout": "grid2",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/yeny-e-spor-arena-logomotion-create-2.webp",
+            "alt": "Yeny marka renkleri",
+            "width": 1080,
+            "height": 1920,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/yeny-e-spor-arena-logomotion-create-2-400x300.webp",
+              "card": "/media/yeny-e-spor-arena-logomotion-create-2-960x1707.webp",
+              "og": "/media/yeny-e-spor-arena-logomotion-create-2-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/yeny-e-spor-arena-frame-1261153421-10.webp",
+            "alt": "Yeny sosyal medya paylaşımı: \"Yeny E-Spor’da oyun oynamanın 6 harika nedeni\"",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/yeny-e-spor-arena-frame-1261153421-10-400x300.webp",
+              "card": "/media/yeny-e-spor-arena-frame-1261153421-10-960x540.webp",
+              "og": "/media/yeny-e-spor-arena-frame-1261153421-10-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214da5010de0f4d96db2",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/yeny-e-spor-arena-frame-1261153421-9.webp",
+      "alt": "Yeny E-Spor Arena web sitesinin Küçükçekmece şube sayfası",
+      "width": 1920,
+      "height": 1080,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/yeny-e-spor-arena-frame-1261153421-9-400x300.webp",
+        "card": "/media/yeny-e-spor-arena-frame-1261153421-9-960x540.webp",
+        "og": "/media/yeny-e-spor-arena-frame-1261153421-9-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "yeny-e-spor-arena",
+  "featured": false,
+  "publishedAt": "2026-10-15T00:41:49.418Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:49.419Z",
+  "order": 7
+}

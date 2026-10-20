@@ -1,0 +1,54 @@
+{
+  "title": "Shopify",
+  "summary": "Shopify üzerinde mağaza kurulumu, tema tasarımı, uygulama entegrasyonları ve büyüme danışmanlığı sunuyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Mağaza kurulumu ve taşıma"
+    },
+    {
+      "text": "Özel tema tasarımı"
+    },
+    {
+      "text": "Uygulama ve ödeme entegrasyonları"
+    },
+    {
+      "text": "Pazarlama ve analitik kurulumu"
+    }
+  ],
+  "website": "https://www.shopify.com",
+  "relatedServices": [
+    {
+      "title": "E-ticaret Danışmanlığı",
+      "summary": "Shopify, İkas veya özel altyapılarla e-ticaret mağazanızı kuruyor; ödeme, stok, kargo ve analitik entegrasyonlarından dönüşüm optimizasyonuna kadar büyümenize eşlik ediyoruz.",
+      "slug": "e-ticaret-danismanligi"
+    },
+    {
+      "title": "Web Sitesi Geliştirme",
+      "summary": "Next.js, React ve Tailwind CSS ile hızlı, mobil uyumlu, arama motorlarına hazır ve kolayca yönetilebilen kurumsal web siteleri geliştiriyoruz.",
+      "slug": "web-sitesi-gelistirme"
+    },
+    {
+      "title": "Meta Ads Yönetimi",
+      "summary": "Facebook ve Instagram reklamlarınızı hedef kitle, kreatif ve bütçe dengesiyle planlıyor; düzenli test ve optimizasyonla kampanya performansını ölçülebilir biçimde takip ediyoruz.",
+      "slug": "meta-ads-yonetimi"
+    },
+    {
+      "title": "Google Ads Yönetimi",
+      "summary": "Arama, Görüntülü Reklam Ağı, YouTube ve Performance Max kampanyalarınızı dönüşüm hedeflerinize göre kuruyor; anahtar kelime, teklif ve dönüşüm takibini sürekli iyileştiriyoruz.",
+      "slug": "google-ads-yonetimi"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "shopify",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.226Z",
+  "layout": [],
+  "order": 0
+}

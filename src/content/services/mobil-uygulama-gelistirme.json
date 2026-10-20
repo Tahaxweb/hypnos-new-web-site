@@ -1,0 +1,55 @@
+{
+  "title": "Mobil Uygulama Geliştirme",
+  "summary": "iOS ve Android için React Native, Flutter veya Swift ile performanslı ve bakımı kolay mobil uygulamalar tasarlıyor, geliştiriyor ve mağaza yayınından sonra da destekliyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Ürün keşfi ve kapsam"
+    },
+    {
+      "text": "UI/UX tasarımı"
+    },
+    {
+      "text": "React Native, Flutter veya Swift ile geliştirme"
+    },
+    {
+      "text": "API ve arka uç entegrasyonları"
+    },
+    {
+      "text": "App Store ve Google Play yayını"
+    },
+    {
+      "text": "Bakım ve sürüm yönetimi"
+    }
+  ],
+  "process": [
+    {
+      "title": "Keşif",
+      "text": "Kullanıcıları, iş hedeflerini ve teknik kısıtları birlikte tanımlıyoruz."
+    },
+    {
+      "title": "Tasarım",
+      "text": "Akışları, prototipleri ve arayüzü test ederek şekillendiriyoruz."
+    },
+    {
+      "title": "Geliştirme",
+      "text": "Kısa döngülerle geliştiriyor, her aşamada önizleme paylaşıyoruz."
+    },
+    {
+      "title": "Yayın ve destek",
+      "text": "Yayına alıyor, ölçüyor ve ürünü birlikte geliştirmeye devam ediyoruz."
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "mobil-uygulama-gelistirme",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.124Z",
+  "layout": [],
+  "order": 5
+}

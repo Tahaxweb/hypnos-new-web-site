@@ -1,0 +1,31 @@
+{
+  "title": "Eğitim",
+  "summary": "Okullar, kurslar ve eğitim teknolojisi girişimleri için öğrenci ve veli yolculuğunu merkeze alan marka iletişimi, kayıt kampanyaları ve dijital platformlar geliştiriyoruz.",
+  "intro": null,
+  "highlights": [
+    {
+      "text": "Kurum kimliği ve iletişim dili"
+    },
+    {
+      "text": "Kayıt dönemi kampanyaları"
+    },
+    {
+      "text": "Web siteleri ve aday başvuru akışları"
+    },
+    {
+      "text": "Eğitim platformu arayüzleri"
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "egitim",
+  "isSample": true,
+  "updatedAt": "2026-10-14T23:58:15.199Z",
+  "layout": [],
+  "order": 3
+}

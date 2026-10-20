@@ -1,0 +1,229 @@
+{
+  "title": "Bozovalı Holding’i sektöründe ileri taşıyan kimlik ve web sitesi",
+  "client": "Bozovalı Holding",
+  "year": null,
+  "liveUrl": "https://bozovaliholding.com",
+  "sectors": [],
+  "services": [
+    "marka-kimligi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/bozovali-holding-image-deneme.webp",
+    "alt": "Bozovalı Holding web sitesinin dizüstü bilgisayardaki ana sayfası",
+    "width": 1672,
+    "height": 941,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/bozovali-holding-image-deneme-400x300.webp",
+      "card": "/media/bozovali-holding-image-deneme-960x540.webp",
+      "og": "/media/bozovali-holding-image-deneme-1200x630.jpg"
+    }
+  },
+  "excerpt": "Altın tonlu yeni kurumsal kimlik ve masaüstünden mobile tutarlı bir kurumsal web sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Logo ve yıldız işareti, kartvizit, antetli kâğıt ve kurumsal kırtasiye, kalem uygulaması, kurumsal web sitesi (masaüstü ve mobil).",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02140a5010de0f4d96d7e",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d82",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/bozovali-holding-imagedekdmekde.webp",
+            "alt": "Bozovalı Holding altın kabartmalı kartvizit tasarımı",
+            "width": 1254,
+            "height": 1254,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-imagedekdmekde-400x300.webp",
+              "card": "/media/bozovali-holding-imagedekdmekde-960x960.webp",
+              "og": "/media/bozovali-holding-imagedekdmekde-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/bozovali-holding-iphone-16-ve-17-pro-max-8.webp",
+            "alt": "Bozovalı Holding logosu sarı zemin üzerinde",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-iphone-16-ve-17-pro-max-8-400x300.webp",
+              "card": "/media/bozovali-holding-iphone-16-ve-17-pro-max-8-960x960.webp",
+              "og": "/media/bozovali-holding-iphone-16-ve-17-pro-max-8-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/bozovali-holding-imagemo.webp",
+            "alt": "Bozovalı Holding web sitesinin mobil görünümü",
+            "width": 1254,
+            "height": 1254,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-imagemo-400x300.webp",
+              "card": "/media/bozovali-holding-imagemo-960x960.webp",
+              "og": "/media/bozovali-holding-imagemo-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d86",
+      "heading": null,
+      "layout": "grid3",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/bozovali-holding-imagemoc.webp",
+            "alt": "Bozovalı Holding antetli kâğıt ve dosya tasarımı",
+            "width": 1254,
+            "height": 1254,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-imagemoc-400x300.webp",
+              "card": "/media/bozovali-holding-imagemoc-960x960.webp",
+              "og": "/media/bozovali-holding-imagemoc-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/bozovali-holding-imageka.webp",
+            "alt": "Bozovalı Holding logolu kalem",
+            "width": 1672,
+            "height": 941,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-imageka-400x300.webp",
+              "card": "/media/bozovali-holding-imageka-960x540.webp",
+              "og": "/media/bozovali-holding-imageka-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/bozovali-holding-iphone-16-ve-17-pro-max-10.webp",
+            "alt": "Bozovalı Holding yıldız işareti",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/bozovali-holding-iphone-16-ve-17-pro-max-10-400x300.webp",
+              "card": "/media/bozovali-holding-iphone-16-ve-17-pro-max-10-960x960.webp",
+              "og": "/media/bozovali-holding-iphone-16-ve-17-pro-max-10-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "none",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02140a5010de0f4d96d87",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/bozovali-holding-image-deneme.webp",
+      "alt": "Bozovalı Holding web sitesinin dizüstü bilgisayardaki ana sayfası",
+      "width": 1672,
+      "height": 941,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/bozovali-holding-image-deneme-400x300.webp",
+        "card": "/media/bozovali-holding-image-deneme-960x540.webp",
+        "og": "/media/bozovali-holding-image-deneme-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "bozovali-holding",
+  "featured": true,
+  "publishedAt": "2026-10-15T00:41:21.168Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:36.291Z",
+  "order": 0
+}

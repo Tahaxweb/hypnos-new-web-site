@@ -1,0 +1,160 @@
+{
+  "title": "Petray Global: dünyayı bağlayan bir ticaret markası",
+  "client": "Petray Global",
+  "year": null,
+  "liveUrl": "https://petrayglobal.com",
+  "sectors": [],
+  "services": [
+    "reklam-kampanyasi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/petray-global-imagedeeddd.webp",
+    "alt": "Petray \"Dünyayı bağlıyoruz, geleceği taşıyoruz\" açık hava reklamı",
+    "width": 1086,
+    "height": 1448,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/petray-global-imagedeeddd-400x300.webp",
+      "card": "/media/petray-global-imagedeeddd-960x1280.webp",
+      "og": "/media/petray-global-imagedeeddd-1200x630.jpg"
+    }
+  },
+  "excerpt": "Uluslararası ticaret firması Petray için kurumsal web sitesi ve açık hava iletişimi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Kurumsal web sitesi, açık hava reklam tasarımları, logo uygulamaları ve marka hareket tasarımı.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad0214fa5010de0f4d96db3",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214fa5010de0f4d96db7",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/petray-global-bu.webp",
+            "alt": "Petray \"Global Trade, Simplified\" açık hava reklamı",
+            "width": 1086,
+            "height": 1448,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petray-global-bu-400x300.webp",
+              "card": "/media/petray-global-bu-960x1280.webp",
+              "og": "/media/petray-global-bu-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petray-global-iphone-16-ve-17-pro-max-2.webp",
+            "alt": "Petray logosu cam cepheli bina üzerinde",
+            "width": 1080,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petray-global-iphone-16-ve-17-pro-max-2-400x300.webp",
+              "card": "/media/petray-global-iphone-16-ve-17-pro-max-2-960x960.webp",
+              "og": "/media/petray-global-iphone-16-ve-17-pro-max-2-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/petray-global-logomotion-create-6.webp",
+            "alt": "Petray logosu mavi geçişli zemin üzerinde",
+            "width": 1080,
+            "height": 1920,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/petray-global-logomotion-create-6-400x300.webp",
+              "card": "/media/petray-global-logomotion-create-6-960x1707.webp",
+              "og": "/media/petray-global-logomotion-create-6-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad0214fa5010de0f4d96db8",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/petray-global-imagedeeddd.webp",
+      "alt": "Petray \"Dünyayı bağlıyoruz, geleceği taşıyoruz\" açık hava reklamı",
+      "width": 1086,
+      "height": 1448,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/petray-global-imagedeeddd-400x300.webp",
+        "card": "/media/petray-global-imagedeeddd-960x1280.webp",
+        "og": "/media/petray-global-imagedeeddd-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "petray-global",
+  "featured": false,
+  "publishedAt": "2026-10-15T00:41:51.076Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:51.077Z",
+  "order": 2
+}

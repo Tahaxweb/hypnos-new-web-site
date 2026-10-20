@@ -1,0 +1,144 @@
+{
+  "title": "AWCI Motors için otomotiv web sitesi",
+  "client": "AWCI Motors",
+  "year": null,
+  "liveUrl": null,
+  "sectors": [
+    "otomotiv"
+  ],
+  "services": [
+    "ui-ux-tasarimi",
+    "web-sitesi-gelistirme"
+  ],
+  "partners": [],
+  "cover": {
+    "url": "/media/awci-motors-image-screen.webp",
+    "alt": "AWCI Motors web sitesi dizüstü bilgisayar ve telefonda",
+    "width": 1586,
+    "height": 992,
+    "mimeType": "image/webp",
+    "focalX": 50,
+    "focalY": 50,
+    "sizes": {
+      "thumbnail": "/media/awci-motors-image-screen-400x300.webp",
+      "card": "/media/awci-motors-image-screen-960x600.webp",
+      "og": "/media/awci-motors-image-screen-1200x630.jpg"
+    }
+  },
+  "excerpt": "Premium otomobil ithalatçısı AWCI Motors için masaüstü ve mobilde etkileyici bir web sitesi.",
+  "challenge": null,
+  "approach": null,
+  "execution": "Kurumsal web sitesi (masaüstü ve mobil), araç vitrini ve ithalat süreci sayfaları.",
+  "outcome": null,
+  "layout": [
+    {
+      "id": "6ad02151a5010de0f4d96dc2",
+      "blockName": null,
+      "blockType": "projectFacts",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "sm",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02151a5010de0f4d96dc5",
+      "heading": null,
+      "layout": "mosaic",
+      "blockName": null,
+      "items": [
+        {
+          "media": {
+            "url": "/media/awci-motors-desktop.webp",
+            "alt": "AWCI Motors web sitesinin ana sayfa kapak alanı",
+            "width": 1920,
+            "height": 1080,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/awci-motors-desktop-400x300.webp",
+              "card": "/media/awci-motors-desktop-960x540.webp",
+              "og": "/media/awci-motors-desktop-1200x630.jpg"
+            }
+          },
+          "caption": null
+        },
+        {
+          "media": {
+            "url": "/media/awci-motors-mobile.webp",
+            "alt": "AWCI Motors web sitesinin mobil görünümü",
+            "width": 435,
+            "height": 1031,
+            "mimeType": "image/webp",
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": "/media/awci-motors-mobile-400x300.webp",
+              "og": "/media/awci-motors-mobile-1200x630.jpg"
+            }
+          },
+          "caption": null
+        }
+      ],
+      "blockType": "gallery",
+      "appearance": {
+        "background": "surface",
+        "width": "wide",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "left",
+        "label": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "6ad02151a5010de0f4d96dc6",
+      "heading": "Benzer bir proje mi planlıyorsunuz?",
+      "text": "Markanızı ve hedefinizi anlatın; birlikte doğru yaklaşımı belirleyelim.",
+      "linkLabel": "Projenizi konuşalım",
+      "linkUrl": "/iletisim",
+      "blockName": "Benzer bir proje mi planlıyorsunuz?",
+      "blockType": "cta",
+      "appearance": {
+        "background": "raised",
+        "width": "default",
+        "paddingTop": "md",
+        "paddingBottom": "md",
+        "align": "center",
+        "label": null,
+        "anchor": null
+      }
+    }
+  ],
+  "meta": {
+    "title": null,
+    "description": null,
+    "image": {
+      "url": "/media/awci-motors-image-screen.webp",
+      "alt": "AWCI Motors web sitesi dizüstü bilgisayar ve telefonda",
+      "width": 1586,
+      "height": 992,
+      "mimeType": "image/webp",
+      "focalX": 50,
+      "focalY": 50,
+      "sizes": {
+        "thumbnail": "/media/awci-motors-image-screen-400x300.webp",
+        "card": "/media/awci-motors-image-screen-960x600.webp",
+        "og": "/media/awci-motors-image-screen-1200x630.jpg"
+      }
+    },
+    "noindex": false
+  },
+  "generateSlug": false,
+  "slug": "awci-motors",
+  "featured": false,
+  "publishedAt": "2026-10-15T00:41:53.906Z",
+  "isSample": false,
+  "updatedAt": "2026-10-15T00:41:53.907Z",
+  "order": 9
+}
