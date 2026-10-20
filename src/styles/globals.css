@@ -48,6 +48,7 @@
 }
 
 :root {
+  --font-playfair: "Playfair Display";
   --gutter: 16px;
   --section-y: 64px;
   --header-h: 64px;

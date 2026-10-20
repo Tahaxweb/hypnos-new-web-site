@@ -1,7 +1,8 @@
 
 import { JsonLd } from '@/components/site/JsonLd'
 import { PageHero } from '@/components/site/PageHero'
-import { PortfolioFilter, type PortfolioItem } from '@/components/site/PortfolioFilter'
+import { Island } from '@/components/site/Island'
+import type { PortfolioItem } from '@/components/site/PortfolioFilter'
 import { getPageTexts, getProjects, getSectors, getServices, populated } from '@/lib/data'
 import { absoluteURL, docPath } from '@/lib/paths'
 import { toGalleryItem } from '@/components/site/ProjectCard'
@@ -27,10 +28,13 @@ export function PortfolioPage() {
     <>
       <PageHero title={t?.heading || 'Portfolyo'} accent={t?.accent} intro={t?.intro} crumbs={[{ name: 'Portfolyo', path: '/portfolyo' }]} label={`${projects.length} proje`} />
       <section className="container-site pb-28 md:pb-40">
-        <PortfolioFilter
-          items={items}
-          services={services.map((s) => ({ slug: s.slug, title: s.title }))}
-          sectors={sectors.map((s) => ({ slug: s.slug, title: s.title }))}
+        <Island
+          name="PortfolioFilter"
+          props={{
+            items,
+            services: services.map((s) => ({ slug: s.slug, title: s.title })),
+            sectors: sectors.map((s) => ({ slug: s.slug, title: s.title })),
+          }}
         />
       </section>
       <JsonLd

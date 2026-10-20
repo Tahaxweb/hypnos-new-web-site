@@ -2,7 +2,7 @@ import { defineConfig, devices } from '@playwright/test'
 
 /**
  * Uçtan uca testler. Varsayılan olarak çalışan geliştirme sunucusunu (localhost:3100) kullanır;
- * sunucu kapalıysa kendisi başlatır. Kullanıcı bilgileri .env içindeki SEED_* değişkenlerinden okunur.
+ * sunucu kapalıysa derleyip kendisi başlatır.
  */
 const executablePath = process.env.CHROMIUM_PATH || undefined
 
@@ -23,7 +23,7 @@ export default defineConfig({
     { name: 'masaustu', use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 900 }, launchOptions: { executablePath } } },
   ],
   webServer: {
-    command: 'npm run dev',
+    command: 'npm run build && PORT=3100 HOST=127.0.0.1 PUBLIC_SITE_ENV=production npm start',
     url: 'http://localhost:3100',
     reuseExistingServer: true,
     timeout: 180_000,

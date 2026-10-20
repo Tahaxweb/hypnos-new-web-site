@@ -5,7 +5,7 @@ import { ProjectFacts, type FactsData } from '@/components/blocks/Blocks'
 import { Arrow } from '@/components/site/Arrow'
 import { Breadcrumbs } from '@/components/site/Breadcrumbs'
 import { JsonLd } from '@/components/site/JsonLd'
-import { Lightbox } from '@/components/site/Lightbox'
+import { Island } from '@/components/site/Island'
 import { Media } from '@/components/site/Media'
 import { SampleNotice } from '@/components/site/SampleNotice'
 import { getProject, getProjects, getPublishedSlugs, populated } from '@/lib/data'
@@ -64,7 +64,7 @@ export function CaseStudyPage({ slug }: { slug: string }) {
         </div>
       </header>
 
-      <Lightbox>
+      <div data-lightbox>
       {/* Kapak: kenardan kenara */}
       <div className="mt-10 md:mt-14">
         <Media media={project.cover} priority aspect="16/8" sizes="100vw" className="w-full overflow-hidden [&_img]:object-cover" />
@@ -89,7 +89,8 @@ export function CaseStudyPage({ slug }: { slug: string }) {
       )}
 
       <RenderBlocks blocks={project.layout} facts={facts} />
-      </Lightbox>
+      </div>
+      <Island name="Lightbox" />
 
       {related.length > 0 && (
         <section className="container-site section" aria-labelledby="ilgili">

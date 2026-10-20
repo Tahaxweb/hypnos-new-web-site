@@ -4,7 +4,7 @@ import { Arrow } from '@/components/site/Arrow'
 import { Breadcrumbs } from '@/components/site/Breadcrumbs'
 import { GalleryGrid } from '@/components/site/GalleryGrid'
 import { JsonLd } from '@/components/site/JsonLd'
-import { Lightbox } from '@/components/site/Lightbox'
+import { Island } from '@/components/site/Island'
 import { Media } from '@/components/site/Media'
 import { toGalleryItem } from '@/components/site/ProjectCard'
 import { RichText } from '@/components/site/RichText'
@@ -54,7 +54,7 @@ export function PostPage({ slug }: { slug: string }) {
         </div>
       </header>
 
-      <Lightbox>
+      <div data-lightbox>
         {post.cover && (
           <div className="container-site mt-12 md:mt-16">
             <Media media={post.cover} priority aspect="16/9" sizes="(min-width: 1440px) 1376px, 100vw" className="media-frame w-full" />
@@ -63,7 +63,8 @@ export function PostPage({ slug }: { slug: string }) {
         <div className="container-site py-14 md:py-20">
           <RichText data={post.content} className="mx-auto" />
         </div>
-      </Lightbox>
+      </div>
+      <Island name="Lightbox" />
 
       {related.length > 0 && (
         <section className="container-site pb-20" aria-labelledby="ilgili-projeler">

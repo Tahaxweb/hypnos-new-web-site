@@ -1,0 +1,13 @@
+---
+import Base from '@/layouts/Base.astro'
+import { getPublishedSlugs } from '@/lib/data'
+import { SectorPage, meta } from '@/views/SectorView'
+
+export function getStaticPaths() {
+  return getPublishedSlugs('sectors').map((slug) => ({ params: { slug } }))
+}
+
+const { slug } = Astro.params
+---
+
+<Base meta={meta({ slug: slug! })}><SectorPage slug={slug!} /></Base>

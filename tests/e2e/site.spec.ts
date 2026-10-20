@@ -1,7 +1,8 @@
 import AxeBuilder from '@axe-core/playwright'
 import { expect, test } from '@playwright/test'
 
-import { apiToken, auth } from './helpers'
+import fs from 'node:fs'
+import path from 'node:path'
 
 const PAGES = ['/', '/blog', '/blog/iyi-bir-case-study-nasil-yazilir', '/neler-yapiyoruz', '/hizmetler/web-sitesi-gelistirme', '/sektorler/saglik', '/partnerler/shopify', '/portfolyo', '/portfolyo/can-modern', '/hakkimizda', '/iletisim', '/kvkk']
 
@@ -61,7 +62,7 @@ test.describe('site', () => {
     await expect(page.getByRole('link', { name: 'Krembi' })).toBeHidden()
   })
 
-  test('iletişim formu: doğrulama hataları ve başarılı gönderim', async ({ page, request }) => {
+  test('iletişim formu: doğrulama hataları ve başarılı gönderim', async ({ page }) => {
     await page.goto('/iletisim?hizmet=meta-ads-yonetimi')
     await expect(page.locator('#service')).toHaveValue('Meta Ads Yönetimi')
     await page.waitForTimeout(2200) // bot korumasındaki en kısa süre
@@ -77,10 +78,12 @@ test.describe('site', () => {
     await page.getByRole('button', { name: /Gönder/ }).click()
     await expect(page.getByRole('status')).toContainText('mesajınız bize ulaştı')
 
-    const token = await apiToken(request)
-    const found = await (await request.get(`/api/contact-submissions?where[name][equals]=${encodeURIComponent(name)}`, { headers: auth(token) })).json()
-    expect(found.docs[0]?.service).toBe('Meta Ads Yönetimi')
-    await request.delete(`/api/contact-submissions/${found.docs[0].id}`, { headers: auth(token) })
+    // Talep sunucunun data/iletisim-talepleri.jsonl dosyasına yazılır; testten sonra satır temizlenir
+    const file = path.resolve(process.env.CONTACT_DATA_DIR || './data', 'iletisim-talepleri.jsonl')
+    const lines = fs.readFileSync(file, 'utf8').trim().split('\n')
+    const found = lines.map((l) => JSON.parse(l)).find((r) => r.name === name)
+    expect(found?.service).toBe('Meta Ads Yönetimi')
+    fs.writeFileSync(file, lines.filter((l) => !l.includes(name)).join('\n') + (lines.length > 1 ? '\n' : ''))
   })
 
   test('404, yönlendirmeler, sitemap, robots ve llms.txt', async ({ request }) => {
@@ -100,16 +103,6 @@ test.describe('site', () => {
     const llms = await (await request.get('/llms.txt')).text()
     expect(llms).toContain('# Hypnos Interactive')
     expect(llms).not.toContain('Örnek Sağlık')
-  })
-
-  test('panelden eklenen yönlendirme çalışır', async ({ request }) => {
-    const token = await apiToken(request)
-    const created = await request.post('/api/redirects', { headers: auth(token), data: { from: '/eski-proje-adresi', to: { type: 'custom', url: '/portfolyo' }, type: '301' } })
-    expect(created.ok()).toBeTruthy()
-    const res = await request.get('/eski-proje-adresi', { maxRedirects: 0 })
-    expect([301, 308]).toContain(res.status())
-    expect(res.headers()['location']).toContain('/portfolyo')
-    await request.delete(`/api/redirects/${(await created.json()).doc.id}`, { headers: auth(token) })
   })
 
   test('örnek içerik uyarısı ve noindex', async ({ page }) => {

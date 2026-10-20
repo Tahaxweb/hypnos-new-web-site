@@ -1,12 +1,12 @@
 'use client'
 
-import Link from 'next/link'
-import { startTransition, useActionState, useEffect, useRef, useState } from 'react'
+import Link from '@/shims/Link'
+import { useEffect, useRef, useState } from 'react'
 
 import { useSearchParam } from '@/lib/hooks'
 
 import { Arrow } from '@/components/site/Arrow'
-import { submitContact, type ContactState } from './actions'
+import type { ContactState } from '@/lib/contact'
 
 const BUDGETS = ['Belirsiz / konuşalım', '50.000 TL altı', '50.000 – 150.000 TL', '150.000 – 500.000 TL', '500.000 TL üzeri']
 
@@ -33,7 +33,19 @@ function Field({ id, label, error, optional, children }: { id: string; label: st
 type Svc = { slug: string; title: string }
 
 export function ContactForm({ services }: { services: Svc[] }) {
-  const [state, action, pending] = useActionState<ContactState, FormData>(submitContact, { status: 'idle' })
+  const [state, setState] = useState<ContactState>({ status: 'idle' })
+  const [pending, setPending] = useState(false)
+  const submit = async (fd: FormData) => {
+    setPending(true)
+    try {
+      const res = await fetch('/api/iletisim', { method: 'POST', body: fd, headers: { Accept: 'application/json' } })
+      setState((await res.json()) as ContactState)
+    } catch {
+      setState({ status: 'error', message: 'Mesajınız şu anda iletilemedi. Lütfen e-posta ile yazın.', values: Object.fromEntries(fd.entries()) as Record<string, string> })
+    } finally {
+      setPending(false)
+    }
+  }
   // Hizmet sayfalarından gelindiğinde (?hizmet=…) ilgili hizmet önceden seçilir
   const presetSlug = useSearchParam('hizmet')
   const preset = services.find((s) => s.slug === presetSlug)
@@ -67,13 +79,14 @@ export function ContactForm({ services }: { services: Svc[] }) {
 
   return (
     <form
-      action={action}
+      method="post"
+      action="/api/iletisim"
       // JS açıkken React'in otomatik form sıfırlamasını engelle: hatalı gönderimde girilen değerler korunur
       onSubmit={(ev) => {
         ev.preventDefault()
         const fd = new FormData(ev.currentTarget)
         fd.set('startedAt', String(startedAt.current))
-        startTransition(() => action(fd))
+        void submit(fd)
       }}
       noValidate
       className="grid gap-8"

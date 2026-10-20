@@ -1,5 +1,6 @@
 
-import { BlogList, type BlogCard } from '@/components/site/BlogList'
+import type { BlogCard } from '@/components/site/BlogList'
+import { Island } from '@/components/site/Island'
 import { JsonLd } from '@/components/site/JsonLd'
 import { PageHero } from '@/components/site/PageHero'
 import { getCategories, getPosts, populated } from '@/lib/data'
@@ -36,7 +37,7 @@ export function BlogPage() {
       <PageHero title="Blog" accent="Blog" intro="Marka, reklam ve dijital üzerine notlar." crumbs={[{ name: 'Blog', path: '/blog' }]} label={`${posts.length} yazı`} />
       <section className="container-site pb-28 md:pb-40">
         {cards.length ? (
-          <BlogList posts={cards} categories={categories.map((c) => ({ slug: c.slug, title: c.title }))} />
+          <Island name="BlogList" props={{ posts: cards, categories: categories.map((c) => ({ slug: c.slug, title: c.title })) }} />
         ) : (
           <p className="border-t border-line pt-8 text-[18px] text-ink-secondary">İlk yazılar hazırlanıyor.</p>
         )}

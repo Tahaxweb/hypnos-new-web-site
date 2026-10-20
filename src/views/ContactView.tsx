@@ -6,8 +6,7 @@ import { ORG_ID } from '@/lib/jsonld'
 import { absoluteURL } from '@/lib/paths'
 import type { PageMeta } from '@/lib/seo'
 import { buildMetadata } from '@/lib/seo'
-import { OfficeMap } from '@/components/site/OfficeMap'
-import { ContactForm } from './ContactForm'
+import { Island } from '@/components/site/Island'
 
 export function meta(): PageMeta {
   const t = (getPageTexts()).contact
@@ -61,16 +60,19 @@ export function ContactPage() {
           </aside>
           <div className="col-span-4 md:col-span-8 md:col-start-5">
             <h2 className="t-heading-xl mb-10">Proje formu</h2>
-            <ContactForm services={svc} />
+            <Island name="ContactForm" props={{ services: svc }} />
           </div>
         </div>
       </section>
       {(s.address || (s.lat && s.lng)) && (
         <section aria-label="Ofis konumu" className="container-site pb-24 md:pb-32">
-          <OfficeMap
-            query={[s.address, s.district, s.city].filter(Boolean).join(', ') || `${s.lat},${s.lng}`}
-            mapUrl={s.mapUrl}
-            label={[s.address, [s.postalCode, [s.district, s.city].filter(Boolean).join('/')].filter(Boolean).join(' ')].filter(Boolean).join(', ')}
+          <Island
+            name="OfficeMap"
+            props={{
+              query: [s.address, s.district, s.city].filter(Boolean).join(', ') || `${s.lat},${s.lng}`,
+              mapUrl: s.mapUrl ?? null,
+              label: [s.address, [s.postalCode, [s.district, s.city].filter(Boolean).join('/')].filter(Boolean).join(' ')].filter(Boolean).join(', '),
+            }}
           />
         </section>
       )}

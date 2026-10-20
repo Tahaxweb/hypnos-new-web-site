@@ -1,0 +1,99 @@
+---
+import '@fontsource/playfair-display/latin-500-italic.css'
+import '@fontsource/playfair-display/latin-ext-500-italic.css'
+import '@/styles/globals.css'
+
+import { Footer } from '@/components/site/Footer'
+import { GalleryCursor } from '@/components/site/GalleryCursor'
+import { Intro } from '@/components/site/Intro'
+import { JsonLd } from '@/components/site/JsonLd'
+import { NavClient } from '@/components/site/NavClient'
+import { buildNavGroups } from '@/components/site/navData'
+import { getSiteSettings } from '@/lib/data'
+import { organizationSchema, websiteSchema } from '@/lib/jsonld'
+import { absoluteURL } from '@/lib/paths'
+import { mediaURL, type PageMeta } from '@/lib/seo'
+
+interface Props {
+  meta?: PageMeta
+  status?: number
+}
+
+const s = getSiteSettings()
+const { meta = { path: Astro.url.pathname } } = Astro.props
+const siteTitle = `${s.siteName} — Creative reklam ajansı`
+const title = !meta.title ? siteTitle : meta.title.includes(s.siteName) ? meta.title : `${meta.title} | ${s.siteName}`
+const description = meta.description || s.description
+const image = meta.image || mediaURL(s.defaultOgImage, 'og')
+const canonical = absoluteURL(meta.path)
+const groups = buildNavGroups()
+const isProduction = import.meta.env.PUBLIC_SITE_ENV === 'production'
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    {(meta.noindex || !isProduction) && <meta name="robots" content={meta.noindex ? 'noindex, follow' : 'noindex, nofollow'} />}
+    <meta property="og:type" content={meta.type || 'website'} />
+    <meta property="og:site_name" content={s.siteName} />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={meta.title || siteTitle} />
+    <meta property="og:description" content={description} />
+    {image && <meta property="og:image" content={image} />}
+    {image && <meta property="og:image:width" content="1200" />}
+    {image && <meta property="og:image:height" content="630" />}
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={meta.title || siteTitle} />
+    <meta name="twitter:description" content={description} />
+    {image && <meta name="twitter:image" content={image} />}
+  </head>
+  <body class="flex min-h-dvh flex-col">
+    <Intro />
+    <a href="#icerik" class="skip-link">İçeriğe geç</a>
+    <header class="sticky top-0 z-50 bg-surface/85 backdrop-blur-md">
+      <div class="container-site flex h-(--header-h) items-center justify-between gap-6">
+        <a href="/" class="flex items-center gap-3" aria-label="Ana sayfa">
+          <img src="/brand/hypnos-logo-black.svg" alt="Hypnos Interactive" width="1189" height="146" fetchpriority="high" class="h-[22px] w-auto md:h-6" />
+        </a>
+        <NavClient client:load groups={groups} availability={s.availability} pathname={Astro.url.pathname} />
+      </div>
+    </header>
+    <main id="icerik" tabindex="-1" class="flex-1 outline-none">
+      <slot />
+    </main>
+    <Footer />
+    <GalleryCursor client:idle />
+    <JsonLd data={[organizationSchema(s), websiteSchema(s.siteName)]} />
+    <script>
+      import '../islands'
+
+      // Atmosfer videoları: sessiz ve döngüde, yalnız ekrandayken oynar; hareket azaltma tercihinde oynatılmaz
+      const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches
+      if (!reduced) {
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            const v = e.target as HTMLVideoElement
+            if (e.isIntersecting) v.play().catch(() => {})
+            else v.pause()
+          }
+        })
+        document.querySelectorAll<HTMLVideoElement>('video[data-ambient]').forEach((v) => {
+          v.muted = true
+          v.loop = true
+          v.controls = false
+          v.preload = 'metadata'
+          io.observe(v)
+        })
+      }
+    </script>
+  </body>
+</html>

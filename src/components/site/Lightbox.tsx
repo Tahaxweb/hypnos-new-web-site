@@ -6,11 +6,11 @@ type Shot = { src: string; alt: string; el: HTMLImageElement }
 
 /**
  * Case study görsellerine tıklanınca tam ekran odak görünümü.
- * Kapsadığı alandaki `img[data-full]` görselleri toplar; bağlantı içindeki görseller (ör. sonraki proje) hariç.
+ * [data-lightbox] alanındaki `img[data-full]` görselleri toplar; bağlantı içindeki görseller (ör. sonraki proje) hariç.
  * Klavye: Tab ile görsel odaklanır, Enter/Boşluk açar, ← → gezinir, Esc kapatır; kapanınca odak görsele döner.
  */
-export function Lightbox({ children }: { children: React.ReactNode }) {
-  const root = useRef<HTMLDivElement>(null)
+export function Lightbox() {
+  const root = useRef<HTMLElement | null>(null)
   const dialog = useRef<HTMLDialogElement>(null)
   const [shots, setShots] = useState<Shot[]>([])
   const [index, setIndex] = useState<number | null>(null)
@@ -34,6 +34,7 @@ export function Lightbox({ children }: { children: React.ReactNode }) {
 
   // Görselleri tıklanabilir ve klavyeyle odaklanabilir yap
   useEffect(() => {
+    root.current = document.querySelector<HTMLElement>('[data-lightbox]')
     const list = collect()
     for (const { el } of list) {
       el.tabIndex = 0
@@ -73,8 +74,7 @@ export function Lightbox({ children }: { children: React.ReactNode }) {
   const current = index !== null ? shots[index] : null
 
   return (
-    <div ref={root}>
-      {children}
+    <>
       <dialog
         ref={dialog}
         aria-label="Görsel görüntüleyici"
@@ -110,6 +110,6 @@ export function Lightbox({ children }: { children: React.ReactNode }) {
         </div>
         {current?.alt && <p className="px-4 pb-5 text-center text-[16px] text-[#d1d5dc] md:px-8">{current.alt}</p>}
       </dialog>
-    </div>
+    </>
   )
 }
