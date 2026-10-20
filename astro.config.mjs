@@ -1,5 +1,5 @@
-import node from '@astrojs/node'
 import react from '@astrojs/react'
+import vercel from '@astrojs/vercel'
 import tailwindcss from '@tailwindcss/vite'
 import { defineConfig } from 'astro/config'
 import fs from 'node:fs'
@@ -19,7 +19,7 @@ try {
 export default defineConfig({
   site,
   output: 'static',
-  adapter: node({ mode: 'standalone' }),
+  adapter: vercel(),
   server: { port: 3100 },
   trailingSlash: 'ignore',
   build: { format: 'directory' },

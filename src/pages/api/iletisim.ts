@@ -41,15 +41,47 @@ function rateLimited(ip: string) {
 
 const json = (body: ContactState, status = 200) => new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json; charset=utf-8' } })
 
-/** Talepler CONTACT_DATA_DIR (varsayılan ./data) altındaki iletisim-talepleri.jsonl dosyasına eklenir; CONTACT_WEBHOOK_URL varsa ayrıca oraya iletilir. */
-async function store(record: Record<string, unknown>) {
-  const dir = path.resolve(process.env.CONTACT_DATA_DIR || './data')
-  fs.mkdirSync(dir, { recursive: true })
-  fs.appendFileSync(path.join(dir, 'iletisim-talepleri.jsonl'), JSON.stringify(record) + '\n')
+/**
+ * Talep iletimi (Vercel'de dosya sistemi kalıcı değildir):
+ * - RESEND_API_KEY varsa e-posta olarak CONTACT_TO (yoksa site ayarlarındaki bildirim/iletişim adresi) adresine gider; gönderen CONTACT_FROM.
+ * - CONTACT_WEBHOOK_URL varsa JSON olarak oraya POST edilir.
+ * - Hiçbiri yoksa yalnız yerel geliştirmede ./data/iletisim-talepleri.jsonl dosyasına yazılır; canlıda hata döner (talep sessizce kaybolmaz).
+ */
+async function store(record: Record<string, any>) {
+  const s = getSiteSettings()
+  const to = process.env.CONTACT_TO || s.notifyEmail || s.email
+  const key = process.env.RESEND_API_KEY
   const hook = process.env.CONTACT_WEBHOOK_URL
+  let delivered = false
+
+  if (key) {
+    const esc = (v: unknown) => String(v ?? '-').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[c]!)
+    const res = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        from: process.env.CONTACT_FROM || 'Hypnos Interactive <onboarding@resend.dev>',
+        to: [to],
+        reply_to: record.email,
+        subject: `Yeni proje talebi: ${record.name}${record.company ? ` (${record.company})` : ''}`,
+        html: ['name', 'company', 'email', 'phone', 'service', 'budget', 'sourcePage', 'message']
+          .map((k) => `<p><strong>${k}:</strong><br>${esc(record[k]).replace(/\n/g, '<br>')}</p>`)
+          .join(''),
+      }),
+    })
+    if (!res.ok) throw new Error(`Resend ${res.status}`)
+    delivered = true
+  }
   if (hook) {
-    const res = await fetch(hook, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ...record, notifyEmail: getSiteSettings().notifyEmail ?? getSiteSettings().email }) })
+    const res = await fetch(hook, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(record) })
     if (!res.ok) throw new Error(`Webhook ${res.status}`)
+    delivered = true
+  }
+  if (!delivered) {
+    if (import.meta.env.PROD) throw new Error('İletişim formu için RESEND_API_KEY veya CONTACT_WEBHOOK_URL tanımlı değil')
+    const dir = path.resolve(process.env.CONTACT_DATA_DIR || './data')
+    fs.mkdirSync(dir, { recursive: true })
+    fs.appendFileSync(path.join(dir, 'iletisim-talepleri.jsonl'), JSON.stringify(record) + '\n')
   }
 }
 
